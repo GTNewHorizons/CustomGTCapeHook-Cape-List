@@ -189,6 +189,7 @@ Schnavid:cape_steam
 slyd0x:cape_steam
 SmokyMtnRed:cape_steam
 StevieNicholai:cape_steam
+Swololo:cape_steam
 thor_ragnason:cape_steam
 Torvik_:cape_steam
 Verknaller:cape_steam
