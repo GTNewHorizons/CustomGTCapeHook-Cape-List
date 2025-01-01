@@ -5,6 +5,7 @@ _Shadii_:capedonor
 _Teixel_:capedonor
 _Timbo:capedonor
 AcidEgoist:capedonor
+AdityaG13:cape_stargate
 AgentAuers:capedonor
 aglowXYZ:capedonor
 akirapriva:capedonor
@@ -264,7 +265,6 @@ Clta:cape_stargate
 Cozzmolot:cape_stargate
 Crumpitx:cape_stargate
 Crusader2835:cape_stargate
-DaddyDiddy:cape_stargate
 Damos1212:cape_stargate
 Darkmaxsas:cape_stargate
 davidca1226:cape_stargate
