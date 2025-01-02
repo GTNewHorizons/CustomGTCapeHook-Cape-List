@@ -5,7 +5,6 @@ _Shadii_:capedonor
 _Teixel_:capedonor
 _Timbo:capedonor
 AcidEgoist:capedonor
-AdityaG13:cape_stargate
 AgentAuers:capedonor
 aglowXYZ:capedonor
 akirapriva:capedonor
@@ -243,6 +242,7 @@ _Hokey:cape_stargate
 _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
 ActuallyMage:cape_stargate
+AdityaG13:cape_stargate
 AgentLA:cape_stargate
 alphaomega21:cape_stargate
 Ambaw:cape_stargate
@@ -347,6 +347,7 @@ ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 RocketMaid:cape_stargate
 Rubijox:cape_stargate
+Sandmaster23:cape_stargate
 Sconeboy:cape_stargate
 Scrome:cape_stargate
 shiftegan:cape_stargate
