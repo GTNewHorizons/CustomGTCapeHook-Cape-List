@@ -185,6 +185,7 @@ MrGundum:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
+Schleimling:cape_steam
 Schnavid:cape_steam
 slyd0x:cape_steam
 SmokyMtnRed:cape_steam
