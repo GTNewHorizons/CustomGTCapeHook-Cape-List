@@ -316,6 +316,7 @@ McFlausch:cape_stargate
 Meishuu:cape_stargate
 michaels84:cape_stargate
 MimiKe_:cape_stargate
+minecartdispy:cape_stargate
 MisterGreed:cape_stargate
 Mr_Ali_Mac:cape_stargate
 Nachie:cape_stargate
