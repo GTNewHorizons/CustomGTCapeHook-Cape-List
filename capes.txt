@@ -304,6 +304,7 @@ Kankashii:cape_stargate
 Kankytwist:cape_stargate
 KuchenHead:cape_stargate
 lerendo:cape_stargate
+Letifery:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
