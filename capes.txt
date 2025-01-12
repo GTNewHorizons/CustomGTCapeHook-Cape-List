@@ -206,6 +206,7 @@ JerVenture:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
+Lord_Vid:cape_titanium
 LukaPix:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
