@@ -21,7 +21,6 @@ Baunti:capedonor
 bedrill:capedonor
 bi0nicman:capedonor
 Bimgo:capedonor
-boubou_19:capedonor
 BouwerMan:capedonor
 braeven:capedonor
 Bubuzela:capedonor
@@ -163,6 +162,7 @@ ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
 Apocal_Hyps:cape_steam
+boubou_19:cape_steam
 CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
