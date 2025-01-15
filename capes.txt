@@ -200,6 +200,7 @@ Aiseus:cape_titanium
 clzola:cape_titanium
 codidu:cape_titanium
 Ender:cape_titanium
+fappoh:cape_titanium
 FerretCentral:cape_titanium
 JamesArhy:cape_titanium
 JerVenture:cape_titanium
@@ -303,6 +304,7 @@ Justiokas:cape_stargate
 K_0ji:cape_stargate
 Kankashii:cape_stargate
 Kankytwist:cape_stargate
+KryolithLP:cape_stargate
 KuchenHead:cape_stargate
 lerendo:cape_stargate
 Letifery:cape_stargate
