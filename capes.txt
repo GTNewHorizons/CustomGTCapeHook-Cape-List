@@ -191,7 +191,6 @@ slyd0x:cape_steam
 SmokyMtnRed:cape_steam
 StevieNicholai:cape_steam
 Swololo:cape_steam
-thor_ragnason:cape_steam
 Torvik_:cape_steam
 Verknaller:cape_steam
 Villager361:cape_steam
@@ -219,6 +218,7 @@ Stereo528:cape_titanium
 Strat0z:cape_titanium
 texaswriter:cape_titanium
 thedragonfoxee:cape_titanium
+TheKawaiiCatboy:cape_titanium
 Thokert:cape_titanium
 UltraPeeks:cape_titanium
 wnoa:cape_titanium
@@ -234,6 +234,7 @@ ojemine:cape_neutronium
 Poppo:cape_neutronium
 Ranai:cape_neutronium
 SMAJLIK73:cape_neutronium
+thor_ragnason:cape_neutronium
 UwUdwagon:cape_neutronium
 WendeWende:cape_neutronium
 Willshaper:cape_neutronium
@@ -256,6 +257,7 @@ bechill:cape_stargate
 Billionth00:cape_stargate
 BKCRMWDJVG:cape_stargate
 blaasfM:cape_stargate
+BloodyGulch:cape_stargate
 blueleaf54:cape_stargate
 Brando:cape_stargate
 Breviel:cape_stargate
