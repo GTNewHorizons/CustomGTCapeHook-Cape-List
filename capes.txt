@@ -314,6 +314,7 @@ Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
 lushiita:cape_stargate
+Luxora:cape_stargate
 Lynx1311:cape_stargate
 Lynx_Amurie:cape_stargate
 Mamizoi:cape_stargate
