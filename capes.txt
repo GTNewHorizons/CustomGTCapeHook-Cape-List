@@ -85,6 +85,7 @@ Ketell:capedonor
 kh2182:capedonor
 KhonaBetwanhe:capedonor
 Konisz:capedonor
+lafire7:capedonor
 Lardyking:capedonor
 LCale456:capedonor
 LittleCircles:capedonor
@@ -116,7 +117,6 @@ qDshun:capedonor
 Quarsy:capedonor
 RedNicStone:capedonor
 relaksoid:capedonor
-rem821:capedonor
 Ressed450:capedonor
 Rezden:capedonor
 Rhewn:capedonor
@@ -158,9 +158,11 @@ YoungOnion:capedonor
 Zaries:capedonor
 Zaromas:capedonor
 Zeus1401:capedonor
+ZG4T:capedonor
 ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
+akiraprivaa:cape_steam
 Apocal_Hyps:cape_steam
 boubou_19:cape_steam
 CrymaOfficial:cape_steam
@@ -170,6 +172,7 @@ DesCuddlebat:cape_steam
 Diamantino_Op:cape_steam
 djaquay:cape_steam
 Dreadsoul:cape_steam
+Erai93:cape_steam
 FreedomFR:cape_steam
 Glubit:cape_steam
 Gregifier:cape_steam
@@ -185,6 +188,8 @@ MrGundum:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
+rem821:cape_steam
+Ruvudkin:cape_steam
 Schleimling:cape_steam
 Schnavid:cape_steam
 slyd0x:cape_steam
@@ -194,12 +199,12 @@ Swololo:cape_steam
 Torvik_:cape_steam
 Verknaller:cape_steam
 Villager361:cape_steam
+Yutang13:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
 clzola:cape_titanium
 codidu:cape_titanium
 Ender:cape_titanium
-fappoh:cape_titanium
 FerretCentral:cape_titanium
 JamesArhy:cape_titanium
 JerVenture:cape_titanium
@@ -208,6 +213,7 @@ Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
 Lord_Vid:cape_titanium
 LukaPix:cape_titanium
+Martebur:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
 P0rtal:cape_titanium
@@ -221,9 +227,11 @@ thedragonfoxee:cape_titanium
 TheKawaiiCatboy:cape_titanium
 Thokert:cape_titanium
 UltraPeeks:cape_titanium
+VMAZZ44:cape_titanium
 wnoa:cape_titanium
 Wylnexon:cape_titanium
 xkuyax:cape_titanium
+_Dislocator_:cape_neutronium
 Der_Giant:cape_neutronium
 diCardinale:cape_neutronium
 Echo_Djinn:cape_neutronium
@@ -236,7 +244,6 @@ Ranai:cape_neutronium
 SMAJLIK73:cape_neutronium
 thor_ragnason:cape_neutronium
 UwUdwagon:cape_neutronium
-WendeWende:cape_neutronium
 Willshaper:cape_neutronium
 WungTung:cape_neutronium
 3rectefied:cape_stargate
@@ -282,6 +289,7 @@ E_StarK:cape_stargate
 Eason1134HK:cape_stargate
 EmmyDroid:cape_stargate
 Evaleon:cape_stargate
+fappoh:cape_stargate
 FriendlyButFire:cape_stargate
 Frikkle:cape_stargate
 Frisia:cape_stargate
@@ -289,6 +297,7 @@ Furious_2014:cape_stargate
 Gatsugame:cape_stargate
 GlycemiaDaddy:cape_stargate
 gramalac:cape_stargate
+Grasender_Kevin:cape_stargate
 GRiggs45:cape_stargate
 gutsy_trev:cape_stargate
 Hamster420:cape_stargate
@@ -385,10 +394,12 @@ Valuta:cape_stargate
 Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
+WendeWende:cape_stargate
 werduz:cape_stargate
 White_Night_awa:cape_stargate
 Wtz_LASR:cape_stargate
 xane4:cape_stargate
+xPhilzillax:cape_stargate
 Yurdol:cape_stargate
 zachary8530:cape_stargate
 Zouldir:cape_stargate
