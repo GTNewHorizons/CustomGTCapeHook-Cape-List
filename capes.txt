@@ -134,6 +134,7 @@ Spacebuilder2020:capedonor
 Spowart:capedonor
 Srdra:capedonor
 Storyboard:capedonor
+Syarocchi:capedonor
 Szajkop:capedonor
 szymon12w:capedonor
 TAOMACHINE:capedonor
@@ -182,9 +183,11 @@ iskabot:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
 leumasme:cape_steam
+LinoTheHellbat:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
 MrGundum:cape_steam
+NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
@@ -264,6 +267,7 @@ bechill:cape_stargate
 Billionth00:cape_stargate
 BKCRMWDJVG:cape_stargate
 blaasfM:cape_stargate
+BlahBlah81:cape_stargate
 BloodyGulch:cape_stargate
 blueleaf54:cape_stargate
 Brando:cape_stargate
@@ -282,6 +286,7 @@ Damos1212:cape_stargate
 Darkmaxsas:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
+Demosthenex:cape_stargate
 Diliskars:cape_stargate
 DrRatmouse:cape_stargate
 DrVonBraun:cape_stargate
@@ -301,6 +306,7 @@ Grasender_Kevin:cape_stargate
 GRiggs45:cape_stargate
 gutsy_trev:cape_stargate
 Hamster420:cape_stargate
+HARDWORK36HOES:cape_stargate
 HistoryNoob:cape_stargate
 Homer:cape_stargate
 Hornum_:cape_stargate
@@ -340,6 +346,7 @@ Mordred:cape_stargate
 Mr_Ali_Mac:cape_stargate
 Nachie:cape_stargate
 nemo075:cape_stargate
+Neodark7:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
 Ngar:cape_stargate
@@ -387,7 +394,9 @@ Superhond1357:cape_stargate
 superjerk187:cape_stargate
 Tee_129:cape_stargate
 TendouAL_1S:cape_stargate
+TheBoboNL:cape_stargate
 TheSugarLump:cape_stargate
+toned____:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
 Valuta:cape_stargate
