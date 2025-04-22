@@ -205,6 +205,8 @@ Villager361:cape_steam
 Yutang13:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+Azru:cape_titanium
+CapColt:cape_titanium
 clzola:cape_titanium
 codidu:cape_titanium
 Ender:cape_titanium
