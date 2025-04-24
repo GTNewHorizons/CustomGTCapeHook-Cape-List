@@ -85,6 +85,7 @@ Ketell:capedonor
 kh2182:capedonor
 KhonaBetwanhe:capedonor
 Konisz:capedonor
+Kyndist:capedonor
 lafire7:capedonor
 Lardyking:capedonor
 LCale456:capedonor
