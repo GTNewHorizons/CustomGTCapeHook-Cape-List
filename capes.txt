@@ -140,6 +140,7 @@ Szajkop:capedonor
 szymon12w:capedonor
 TAOMACHINE:capedonor
 TheMaddog91:capedonor
+thewaydu:capedonor
 Tip_Donaldson:capedonor
 Tirm:capedonor
 TofuWolf:capedonor
