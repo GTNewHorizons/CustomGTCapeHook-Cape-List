@@ -220,6 +220,7 @@ jurrejelle:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
 Lord_Vid:cape_titanium
+LordTimmeh:cape_titanium
 LukaPix:cape_titanium
 Martebur:cape_titanium
 Moogrok:cape_titanium
