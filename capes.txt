@@ -328,6 +328,7 @@ Justiokas:cape_stargate
 K_0ji:cape_stargate
 Kankashii:cape_stargate
 Kankytwist:cape_stargate
+Kittytob:cape_stargate
 KryolithLP:cape_stargate
 KuchenHead:cape_stargate
 lerendo:cape_stargate
