@@ -420,6 +420,7 @@ xane4:cape_stargate
 xPhilzillax:cape_stargate
 Yurdol:cape_stargate
 zachary8530:cape_stargate
+zedle:cape_stargate
 Zouldir:cape_stargate
 Arnab:capedev
 bigbass1997:capedev
