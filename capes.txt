@@ -123,6 +123,7 @@ Rezden:capedonor
 Rhewn:capedonor
 Rijodan:capedonor
 Saulbuscus:capedonor
+SeaBassLegend:capedonor
 Shamancs:capedonor
 shawnbyday:capedonor
 shidima301:capedonor
