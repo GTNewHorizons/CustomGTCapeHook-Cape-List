@@ -341,6 +341,7 @@ Luxora:cape_stargate
 Lynx1311:cape_stargate
 Lynx_Amurie:cape_stargate
 Mamizoi:cape_stargate
+MangAGEM:cape_stargate
 MattyGroGy:cape_stargate
 maxi23090000:cape_stargate
 McFlausch:cape_stargate
