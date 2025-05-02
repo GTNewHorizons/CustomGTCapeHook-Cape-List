@@ -21,6 +21,7 @@ Baunti:capedonor
 bedrill:capedonor
 bi0nicman:capedonor
 Bimgo:capedonor
+boubou_19:capedonor
 BouwerMan:capedonor
 braeven:capedonor
 Bubuzela:capedonor
@@ -168,7 +169,6 @@ zMacj3reake:capedonor
 Zyphier:capedonor
 akiraprivaa:cape_steam
 Apocal_Hyps:cape_steam
-boubou_19:capedonor
 CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
@@ -301,6 +301,7 @@ E_StarK:cape_stargate
 Eason1134HK:cape_stargate
 EmmyDroid:cape_stargate
 Evaleon:cape_stargate
+F_S_Q:cape_stargate
 fappoh:cape_stargate
 FriendlyButFire:cape_stargate
 Frikkle:cape_stargate
