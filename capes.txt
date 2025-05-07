@@ -180,7 +180,6 @@ Erai93:cape_steam
 FaultierStein:cape_steam
 FreedomFR:cape_steam
 Glubit:cape_steam
-Gregifier:cape_steam
 Grubling:cape_steam
 Hungerya:cape_steam
 iskabot:cape_steam
@@ -311,6 +310,7 @@ Gatsugame:cape_stargate
 GlycemiaDaddy:cape_stargate
 gramalac:cape_stargate
 Grasender_Kevin:cape_stargate
+Gregifier:cape_stargate
 GRiggs45:cape_stargate
 gutsy_trev:cape_stargate
 Hamster420:cape_stargate
