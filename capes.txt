@@ -393,6 +393,7 @@ Sandmaster23:cape_stargate
 Sconeboy:cape_stargate
 Scrome:cape_stargate
 shiftegan:cape_stargate
+Shurtz:cape_stargate
 Sir_Fluffyngton:cape_stargate
 sirtuxedo:cape_stargate
 SlavetotheMetal:cape_stargate
