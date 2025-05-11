@@ -385,7 +385,6 @@ Quantumly:cape_stargate
 queeek180:cape_stargate
 ragnarokjak:cape_stargate
 Rami_114:cape_stargate
-ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 RocketMaid:cape_stargate
 Rubijox:cape_stargate
@@ -458,6 +457,7 @@ moller21:capedev
 Namikon:capedev
 Nocx2727:capedev
 NotAPenguin0:capedev
+ReignOfFROZE:capedev
 Runakai:capedev
 Sampsa_:capedev
 serenibyss:capedev
