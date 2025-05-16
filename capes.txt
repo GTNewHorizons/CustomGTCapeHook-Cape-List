@@ -420,6 +420,7 @@ WarriorBobRoss:cape_stargate
 WendeWende:cape_stargate
 werduz:cape_stargate
 White_Night_awa:cape_stargate
+Worive:cape_stargate
 Wtz_LASR:cape_stargate
 xane4:cape_stargate
 Xeno_Ra:cape_stargate
