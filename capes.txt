@@ -169,6 +169,7 @@ zMacj3reake:capedonor
 Zyphier:capedonor
 akiraprivaa:cape_steam
 Apocal_Hyps:cape_steam
+BiosElement:cape_steam
 CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
