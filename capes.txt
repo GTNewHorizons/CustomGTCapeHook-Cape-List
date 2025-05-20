@@ -289,6 +289,7 @@ Clta:cape_stargate
 Cozzmolot:cape_stargate
 Crumpitx:cape_stargate
 Crusader2835:cape_stargate
+Czolgista123:cape_stargate
 Damos1212:cape_stargate
 Darkmaxsas:cape_stargate
 davidca1226:cape_stargate
