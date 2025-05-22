@@ -293,6 +293,7 @@ Czolgista123:cape_stargate
 Damos1212:cape_stargate
 Darkmaxsas:cape_stargate
 davidca1226:cape_stargate
+DEATHICIDE:cape_stargate
 Deathstare:cape_stargate
 Demosthenex:cape_stargate
 Diliskars:cape_stargate
