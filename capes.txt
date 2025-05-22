@@ -5,7 +5,6 @@ _Shadii_:capedonor
 _Teixel_:capedonor
 _Timbo:capedonor
 AcidEgoist:capedonor
-AgentAuers:capedonor
 aglowXYZ:capedonor
 akirapriva:capedonor
 AlastarDArk:capedonor
@@ -264,6 +263,7 @@ _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
 ActuallyMage:cape_stargate
 AdityaG13:cape_stargate
+AgentAuers:cape_stargate
 AgentLA:cape_stargate
 alphaomega21:cape_stargate
 Ambaw:cape_stargate
