@@ -229,6 +229,7 @@ P0rtal:cape_titanium
 ProphecyOak:cape_titanium
 PureBluez:cape_titanium
 s0urdough:cape_titanium
+Sovishe:cape_titanium
 Stereo528:cape_titanium
 Strat0z:cape_titanium
 texaswriter:cape_titanium
@@ -256,6 +257,7 @@ UwUdwagon:cape_neutronium
 Willshaper:cape_neutronium
 WungTung:cape_neutronium
 3rectefied:cape_stargate
+8800088:cape_stargate
 __tomm__:cape_stargate
 __Trollface:cape_stargate
 _Hokey:cape_stargate
