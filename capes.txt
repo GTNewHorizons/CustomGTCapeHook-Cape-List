@@ -187,6 +187,7 @@ KH__Hansano:cape_steam
 L4now:cape_steam
 leumasme:cape_steam
 LinoTheHellbat:cape_steam
+Misterio7x:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
 MrGundum:cape_steam
