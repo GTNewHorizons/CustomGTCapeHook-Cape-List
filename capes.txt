@@ -195,7 +195,6 @@ NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
-rem821:cape_steam
 Ruvudkin:cape_steam
 Schleimling:cape_steam
 Schnavid:cape_steam
@@ -229,6 +228,7 @@ MorganC46:cape_titanium
 P0rtal:cape_titanium
 ProphecyOak:cape_titanium
 PureBluez:cape_titanium
+rem821:cape_titanium
 s0urdough:cape_titanium
 Sovishe:cape_titanium
 Stereo528:cape_titanium
@@ -346,6 +346,7 @@ lerendo:cape_stargate
 Letifery:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
+Lulo004:cape_stargate
 Luna264:cape_stargate
 lushiita:cape_stargate
 Luxora:cape_stargate
