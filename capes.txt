@@ -308,6 +308,7 @@ EmmyDroid:cape_stargate
 Evaleon:cape_stargate
 F_S_Q:cape_stargate
 fappoh:cape_stargate
+Fobius:cape_stargate
 FriendlyButFire:cape_stargate
 Frikkle:cape_stargate
 Frisia:cape_stargate
