@@ -438,6 +438,7 @@ Yurdol:cape_stargate
 zachary8530:cape_stargate
 zedle:cape_stargate
 Zouldir:cape_stargate
+Alexdoru:capedev
 Arnab:capedev
 bigbass1997:capedev
 BlueWeabo:capedev
@@ -457,6 +458,7 @@ GreasyBuns:capedev
 HeadOfMetal:capedev
 jss2a98aj:capedev
 KiloJoel:capedev
+koolkrafter5:capedev
 kuba6000:capedev
 leagris:capedev
 Lewis_Saber:capedev
