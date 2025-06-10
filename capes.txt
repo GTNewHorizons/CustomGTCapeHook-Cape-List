@@ -374,6 +374,7 @@ Ngar:cape_stargate
 Nick5131:cape_stargate
 Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
+NovaSolarine:cape_stargate
 nugget61565:cape_stargate
 nuka_cole:cape_stargate
 Nulatari:cape_stargate
@@ -412,7 +413,6 @@ Snowleopoldxxx67:cape_stargate
 SoupTopic:cape_stargate
 SPARKPLUGx44:cape_stargate
 stupidwalrus:cape_stargate
-SuperficialCake:cape_stargate
 Superhond1357:cape_stargate
 superjerk187:cape_stargate
 Tee_129:cape_stargate
