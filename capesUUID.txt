@@ -5,7 +5,7 @@
 
 // Valid formats (not case sensitive):
 // <uuid>:<capeType>
-<uuid>:<capeType> // <username> (other comments will be stripped by the donation bot to place the // username instead)
+// <uuid>:<capeType> // <username> (other comments will be stripped by the donation bot to place the // username instead)
 // <uuid>
 // Note #1: a line with only <uuid> or invalid cape type will default to using the default GT cape
 // Note #2: Players who got a cape from hardcoded playername in GT5U or GregoriousT's endpoint, have their cape conserved, but donation capes have priority over other capes
