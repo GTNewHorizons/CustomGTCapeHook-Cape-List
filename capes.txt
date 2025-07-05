@@ -230,6 +230,7 @@ CHuDO_LD:capedonor
 Combuster:capedonor
 Cordo52:capedonor
 CowboyCave:capedonor
+crash117:capedonor
 cristicsk:capedonor
 Cumnana:capedonor
 Darkstar1712:capedonor
