@@ -575,6 +575,7 @@ PhoenixSky1:cape_stargate
 possi26:cape_stargate
 Predictive_:cape_stargate
 PrinceDeo:cape_stargate
+Probably_Lobster:cape_stargate
 purplestove:cape_stargate
 pxldi:cape_stargate
 Quantumly:cape_stargate
