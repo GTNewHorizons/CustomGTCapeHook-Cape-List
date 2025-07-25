@@ -513,6 +513,7 @@ Hamster420:cape_stargate
 HARDWORK36HOES:cape_stargate
 Hiriko:cape_stargate
 HistoryNoob:cape_stargate
+homeofthefox_YT:cape_stargate
 Homer:cape_stargate
 Hornum_:cape_stargate
 houlht:cape_stargate
