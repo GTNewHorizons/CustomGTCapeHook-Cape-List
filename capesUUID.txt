@@ -368,6 +368,7 @@ f6668ec40e1748d087d75f5b30e2d3a3:capedonor // zMacj3reake
 9c1119a896da4ab1a1ee0cdcf8b760e8:cape_steam // CrymaOfficial
 2bf59164d4924dc58e673f05044c6b64:cape_steam // cyypr
 9550beb7177b4c71aca543c962c21c5d:cape_steam // Daarkenis
+fb04fd66582549abbba3276188eed0e6:cape_steam // DarkShadow44
 824248d3412548b3b7ee38200d744bb4:cape_steam // DesCuddlebat
 a346b3133bb74c30bbf5526dfae0c303:cape_steam // Diamantino_Op
 574ce4f1f0864387a2a3bda8d3255c37:cape_steam // djaquay
