@@ -424,6 +424,7 @@ texaswriter:cape_titanium
 ThatCheesyTaco:cape_titanium
 TheKawaiiLeafeon:cape_titanium
 Thokert:cape_titanium
+TwoDCubee:cape_titanium
 UltraPeeks:cape_titanium
 UNISOCKCORNELIUS:cape_titanium
 VMAZZ44:cape_titanium
