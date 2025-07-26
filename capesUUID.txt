@@ -226,6 +226,7 @@ dc8fd34c9bc148ea96d4e597e3ef602f:capedonor // Barokko
 fb0b1d97f6a5456cb1d1883d3a4bdd91:capedonor // Baunti
 c6bb8621cb32407dbf0c5935ed065d06:capedonor // bedrill
 27dc7c31409c4ea6ae29ffd064fe5461:capedonor // bi0nicman
+0d3e491ba2ab458c9eb29c6f198bcb56:capedonor // BigZee
 24f84f5106ab40fc8843c649e5d28e35:capedonor // Bimgo
 d28e5f134b8444ce9d3251f1b569adda:capedonor // boubou_19
 a7ed884f8f4d4d7fa4c359482e469cd3:capedonor // BouwerMan
@@ -364,6 +365,7 @@ f6668ec40e1748d087d75f5b30e2d3a3:capedonor // zMacj3reake
 350d11b9175447b780a5b8e01b760ec8:capedonor // Zyphier
 2be83ebdb94c448f9cbc3bd92a2b5bb9:cape_steam // akiraprivaa
 9d77f13e58054f4ca2167061f7379f19:cape_steam // Apocal_Hyps
+8f8dc7a5e95e4f66b9c4369c17db661f:cape_steam // Artoooooor
 56cde31a13d54ddbb85649a1411c8e4f:cape_steam // BiosElement
 9c1119a896da4ab1a1ee0cdcf8b760e8:cape_steam // CrymaOfficial
 2bf59164d4924dc58e673f05044c6b64:cape_steam // cyypr
@@ -472,6 +474,7 @@ eb26884df25f46bbbf10afdaae30ab14:cape_stargate // alphaomega21
 e3450dd5c8a34c28aa25a6b5aedadd33:cape_stargate // Ambaw
 bcb6f5c9abce475aab5515ae17a8eaf9:cape_stargate // anon
 5bd7751cc2b943c7bf9517b73154e65e:cape_stargate // ASOOD
+d186bf1af0cd466aa8dd31411feb78e0:cape_stargate // AuroraJesse
 1eaec99b1f3a4d78b2e5c99e640f3b1a:cape_stargate // BeardBois
 8ada0bd64eec41a283f2f88a50687897:cape_stargate // bechill
 472c1affa23d439d9e4a3b2a018d0043:cape_stargate // Billionth00
