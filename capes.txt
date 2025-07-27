@@ -592,6 +592,7 @@ ragnarokjak:cape_stargate
 Rami_114:cape_stargate
 rilliko:cape_stargate
 RocketMaid:cape_stargate
+Roffster:cape_stargate
 Rubijox:cape_stargate
 Sandmaster23:cape_stargate
 Sconeboy:cape_stargate

@@ -603,6 +603,7 @@ a2a5ae82a1bd4a3fa2d1e1589a9f6d79:cape_stargate // ragnarokjak
 f4cd8cf31d214958b5b66fa6526b00bd:cape_stargate // Rami_114
 47582bef34a4444a8f3851c8e0cae96b:cape_stargate // rilliko
 8000eaa2aa7241b6a818fcba2ad26d7f:cape_stargate // RocketMaid
+e38e4ddda2c94801960e54434a136bd2:cape_stargate // Roffster
 d039ff5fd22d42b297d9d5ad00e7a6a5:cape_stargate // Rubijox
 63c7125b2f1440fe9a8a51891ae950a6:cape_stargate // Sandmaster23
 367932e9ffe34e0dba7f86770959224e:cape_stargate // Sconeboy
