@@ -513,6 +513,7 @@ b92a977e2a724b5583e58897243c28df:cape_stargate // Eason1134HK
 a3ce4c51826342299c05b9d8fdff4541:cape_stargate // Evaleon
 f92d3e2b62f349d5b359f7ec02728d20:cape_stargate // F_S_Q
 88aefaa6b58840c59af77ff7f1e3a604:cape_stargate // fappoh
+d50b616ec6ca4324be8d70fc0c0786df:cape_stargate // Flame_Light
 ca399a5bd1bb46e3af5b5939817b5cf8:cape_stargate // Fobius
 9aa54628598544e381e414be8f34f4b7:cape_stargate // FriendlyButFire
 2a75eed9ca00462d9d53edc32dfe2fe7:cape_stargate // Frikkle
