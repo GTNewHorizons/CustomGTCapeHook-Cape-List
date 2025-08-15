@@ -441,6 +441,7 @@ Echo_Djinn:cape_neutronium
 Emve:cape_neutronium
 honzastastny:cape_neutronium
 Hydrant:cape_neutronium
+Hyejin:cape_neutronium
 ojemine:cape_neutronium
 Poppo:cape_neutronium
 Ranai:cape_neutronium
