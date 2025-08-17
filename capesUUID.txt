@@ -396,6 +396,7 @@ dca6ad66fcbc41968601d36c8c84f531:cape_steam // Nagapito_
 e34f2a27378047cb9f3c746005b4a7f8:cape_steam // Paner
 c84cd982a3954cfe8531f911973e1ad2:cape_steam // psehr
 1b87e223d41a45fe870060279698dc23:cape_steam // Quna
+3088d2c5055b45c8bcb119e136612fb9:cape_steam // Ragnaroin
 b60402c72097424d861eb5e973a2a040:cape_steam // Ruvudkin
 6fd51125c0654a7b8b5f6c4f94163acc:cape_steam // Schleimling
 cda1389f0ae14b1fba3ab01718eba450:cape_steam // shining_luna

@@ -385,6 +385,7 @@ NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
+Ragnaroin:cape_steam
 Ruvudkin:cape_steam
 Schleimling:cape_steam
 shining_luna:cape_steam
