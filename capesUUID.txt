@@ -213,6 +213,7 @@ fa7c60516ad64075907f261ed855744f:capedonor // _Teixel_
 9d09db75e07e490d98a9b0b63935d46a:capedonor // AcidEgoist
 677200af91ca426c936cde70800ff76e:capedonor // aglowXYZ
 91cd8fdadc6348d8ba5fca3783bd9be4:capedonor // akirapriva
+79052e26710849e4a36f6f65cb0237f2:capedonor // AkumaNoYoru
 73a682409f9b4f319b2d00102eb9c9b8:capedonor // AlastarDArk
 fc56cfa8fe1e4ed0bef6bf1782da84c4:capedonor // Alastors_Game
 f951b1f2f9ae474cb7712cf7bef806fb:capedonor // Alrightsc
