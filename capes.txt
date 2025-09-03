@@ -412,6 +412,7 @@ FerretCentral:cape_titanium
 JamesArhy:cape_titanium
 JerVenture:cape_titanium
 jurrejelle:cape_titanium
+KH_Hansano:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
 Lord_Vid:cape_titanium
@@ -420,6 +421,7 @@ LukaPix:cape_titanium
 Martebur:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
+Mythrix08:cape_titanium
 P0rtal:cape_titanium
 ProphecyOak:cape_titanium
 PureBluez:cape_titanium
@@ -648,6 +650,7 @@ Arnab:capedev
 bigbass1997:capedev
 BlueWeabo:capedev
 bombcar:capedev
+BredCrom:capedev
 Bryfer:capedev
 chochem:capedev
 Colen:capedev
@@ -657,6 +660,7 @@ DvDmanDT:capedev
 EigenRaven:capedev
 El_Stampede:capedev
 Ethryan:capedev
+FrostyFire1:capedev
 glease:capedev
 glowredman:capedev
 GreasyBuns:capedev
@@ -684,5 +688,3 @@ The_4th_Doctor_:capedev
 TheEpicGamer274:capedev
 Time_Conqueror:capedev
 YannickMG:capedev
-BredCrom:capedev
-FrostyFire1:capedev

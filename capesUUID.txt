@@ -423,6 +423,7 @@ b73ef2b613d04a24be4a279c21ea8f47:cape_titanium // FerretCentral
 a8b2057569f14693999828138898f3ea:cape_titanium // JamesArhy
 f57930b3a40b460aa26425b869b55f7a:cape_titanium // JerVenture
 c18c1d7f317442c681dc3c7ff9f720c3:cape_titanium // jurrejelle
+9ef676e367df4d5ba1a1ccb3228285e4:cape_titanium // KH_Hansano
 5d51a232c5864697a1f735f4501f3797:cape_titanium // Kremnari
 fd35dc839573474cb6cfa31a042d3024:cape_titanium // Lelo_Saiyan
 ab1bceb256914dfe926c79436b49909b:cape_titanium // Lord_Vid
@@ -431,6 +432,7 @@ a4e7a49bfe2e431e9b77887a5ff2a45e:cape_titanium // LordTimmeh
 c6e651f9c18b4e0ea50c3b72492c28e5:cape_titanium // Martebur
 a164f9baec354c778dbf68e17edec129:cape_titanium // Moogrok
 19092f14255f4af9aebce16ee700649b:cape_titanium // MorganC46
+b68590a623ce4ae8a1c1c966fa4a5c58:cape_titanium // Mythrix08
 b485ee0c69384f12a3236b80067c35ac:cape_titanium // P0rtal
 cdb9eecee4884366bb70cb53a4397fba:cape_titanium // ProphecyOak
 acb6f1b635eb4933a7c82b4ec0a77be9:cape_titanium // PureBluez
@@ -659,6 +661,7 @@ ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 5719f8d6b2824a2389025a605c06daed:capedev // bigbass1997
 6aa81fb5b3a9433db7734bcf5b41bf34:capedev // BlueWeabo
 9ad8ef2c6c0744189d42d03e7a2c30f8:capedev // bombcar
+86957d1c1bde4095b693a294afa071de:capedev // BredCrom
 fd6e75a3f3c642f9ab7b91cdf4af04a4:capedev // Bryfer
 f704f98ebe4041fba9a5f370a143fe5b:capedev // chochem
 a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
@@ -668,6 +671,7 @@ a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
 a76399f485a04168b6e9e2e8a40070bc:capedev // EigenRaven
 182b2e18cbf0428e9ed832beff517725:capedev // El_Stampede
 051ee24f4e944103984ef51c1aca1acf:capedev // Ethryan
+b78cfaf452f846838ae9e989f00eccde:capedev // FrostyFire1
 a1c135f8307f45c9974954562c54a2d5:capedev // glease
 1c37e9ccd2ab4cea8100b6945348bb96:capedev // glowredman
 aab7bf6a42d247729439b3731c934b69:capedev // GreasyBuns
@@ -695,5 +699,3 @@ bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 6839d443b08844adbea03c90a7fde81d:capedev // TheEpicGamer274
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
-86957d1c1bde4095b693a294afa071de:capedev // BredCrom / chrombread
-b78cfaf452f846838ae9e989f00eccde:capedev // FrostyFire1
