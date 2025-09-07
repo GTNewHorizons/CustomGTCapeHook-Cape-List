@@ -692,13 +692,16 @@ d7c74abba09748859a97b34f1fe59143:capedev // miozune
 848d48e8bc224a7495e2ef0d55115647:capedev // Namikon
 31893faa44e14c899caf3879ba8ffde5:capedev // Nocx2727
 266e4630c30d48c198231cfc5e0a22e7:capedev // NotAPenguin0
+f2e1f6c2ef9042bfb96b7513e244bc12:capedev // nspolar
 9f9b40b0629a4c4eae6a6447a8b92b08:capedev // ReignOfFROZE
 3174e1917b854a8b98acff4108c2ba14:capedev // Runakai
 c20952dfb4e4473db7b8ba56a7bb2336:capedev // Sampsa_
 a82fb55864f94dd6a87d84040e84bb43:capedev // serenibyss
 7133b933c01144c28b42a3030e8e551d:capedev // StaffiX
+0d93884cb9954b4f86eb3b3d32828b48:capedev // TalentedGamba
 f2ba3ce06dbb45cabb479c19e23ab5d5:capedev // Teteros
 bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 6839d443b08844adbea03c90a7fde81d:capedev // TheEpicGamer274
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
+ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
