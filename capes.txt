@@ -683,8 +683,10 @@ Runakai:capedev
 Sampsa_:capedev
 serenibyss:capedev
 StaffiX:capedev
+TalentedGamba:capedev
 Teteros:capedev
 The_4th_Doctor_:capedev
 TheEpicGamer274:capedev
 Time_Conqueror:capedev
+Ultra_Prodigy:capedev
 YannickMG:capedev
