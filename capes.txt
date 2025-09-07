@@ -384,7 +384,6 @@ MrDecimus:cape_steam
 MrG:cape_steam
 MrGundum:cape_steam
 Nagapito_:cape_steam
-NH_Hansano:cape_steam
 NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
@@ -533,6 +532,7 @@ Hornum_:cape_stargate
 houlht:cape_stargate
 Hyperic88:cape_stargate
 IrisMoonglow:cape_stargate
+JackTimes:cape_stargate
 japio:cape_stargate
 Jebud:cape_stargate
 Jordan3688:cape_stargate
@@ -549,6 +549,7 @@ KryolithLP:cape_stargate
 KuchenHead:cape_stargate
 lerendo:cape_stargate
 Letifery:cape_stargate
+Leuca:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Lulo004:cape_stargate
@@ -576,6 +577,7 @@ Neodark7:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
 Ngar:cape_stargate
+NH_Hansano:cape_stargate
 Nick5131:cape_stargate
 Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
@@ -683,10 +685,8 @@ Runakai:capedev
 Sampsa_:capedev
 serenibyss:capedev
 StaffiX:capedev
-TalentedGamba:capedev
 Teteros:capedev
 The_4th_Doctor_:capedev
 TheEpicGamer274:capedev
 Time_Conqueror:capedev
-Ultra_Prodigy:capedev
 YannickMG:capedev

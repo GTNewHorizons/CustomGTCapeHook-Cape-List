@@ -395,7 +395,6 @@ c04cc044f0344492822182403d759b02:cape_steam // leumasme
 7d56f459bb844e5891b6775ee2d7e92b:cape_steam // MrG
 d3274102977c441e8f572de41720d1c4:cape_steam // MrGundum
 dca6ad66fcbc41968601d36c8c84f531:cape_steam // Nagapito_
-36823610416a487495c5e33e9e505ebd:cape_steam // NH_Hansano
 0d4d2b255c984c7185213dae7e5cd1c3:cape_steam // NikkiTomorrow
 e34f2a27378047cb9f3c746005b4a7f8:cape_steam // Paner
 c84cd982a3954cfe8531f911973e1ad2:cape_steam // psehr
@@ -544,6 +543,7 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 2ad513e97146489e84fa8e781fc8d3a9:cape_stargate // houlht
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
 cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
+9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
 19d1abd6c1844a9ea215e12bf3de1869:cape_stargate // japio
 3c1235b353ef4581b47485cf3c25e551:cape_stargate // Jebud
 a474314cf7c346eb99daeb8d85d5dfb7:cape_stargate // Jordan3688
@@ -560,6 +560,7 @@ b852b0f09cdc4e459a493321a3f9a84e:cape_stargate // KryolithLP
 cbe40c0d9caa46798d31fc0f2f96b113:cape_stargate // KuchenHead
 8ae7ad12a31d4ce4aa9bb52f6240bb4f:cape_stargate // lerendo
 64f25219853a4b7e90877e0ad18ed16f:cape_stargate // Letifery
+4a78c4efda1c48eebd77c3852810974b:cape_stargate // Leuca
 e12a7c1b6df247069d0a02e94a1ad148:cape_stargate // Lord_Peverell99
 434bd4dce69f4300985b35d37dc6dfe2:cape_stargate // LordOfLongNez
 e616bc33396c402f97fb29b67756de59:cape_stargate // Lulo004
@@ -587,6 +588,7 @@ d45fdcbdb0cb490ab76e52a79225c23b:cape_stargate // Mr_Ali_Mac
 731d02960daf4167b26370b83a0a52d1:cape_stargate // NerverHD
 e36fb8df37df4bfaba3b453fbeadff3e:cape_stargate // NexusNull
 018d7faac174475da4a7adcf85e9acb9:cape_stargate // Ngar
+36823610416a487495c5e33e9e505ebd:cape_stargate // NH_Hansano
 feaf594d815c4465ab86d790c9bd4e3d:cape_stargate // Nick5131
 c0d68e3ab5d54f6eb3da1ddb8830337e:cape_stargate // Nicouuuuu
 c10e70f7ae874076b8aaf4c4d6ac992d:cape_stargate // Niko_mon
@@ -694,10 +696,8 @@ d7c74abba09748859a97b34f1fe59143:capedev // miozune
 c20952dfb4e4473db7b8ba56a7bb2336:capedev // Sampsa_
 a82fb55864f94dd6a87d84040e84bb43:capedev // serenibyss
 7133b933c01144c28b42a3030e8e551d:capedev // StaffiX
-0d93884cb9954b4f86eb3b3d32828b48:capedev // TalentedGamba
 f2ba3ce06dbb45cabb479c19e23ab5d5:capedev // Teteros
 bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 6839d443b08844adbea03c90a7fde81d:capedev // TheEpicGamer274
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
-ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
