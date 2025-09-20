@@ -552,6 +552,7 @@ Letifery:cape_stargate
 Leuca:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
+ludovic32:cape_stargate
 Lulo004:cape_stargate
 Luna264:cape_stargate
 lushiita:cape_stargate
@@ -612,6 +613,7 @@ Sconeboy:cape_stargate
 Scrome:cape_stargate
 shiftegan:cape_stargate
 Shurtz:cape_stargate
+Silverdark:cape_stargate
 Sir_Fluffyngton:cape_stargate
 sirtuxedo:cape_stargate
 SlavetotheMetal:cape_stargate

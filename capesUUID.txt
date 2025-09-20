@@ -563,6 +563,7 @@ cbe40c0d9caa46798d31fc0f2f96b113:cape_stargate // KuchenHead
 4a78c4efda1c48eebd77c3852810974b:cape_stargate // Leuca
 e12a7c1b6df247069d0a02e94a1ad148:cape_stargate // Lord_Peverell99
 434bd4dce69f4300985b35d37dc6dfe2:cape_stargate // LordOfLongNez
+4abac67b9aab4418984c7c19f13de2be:cape_stargate // ludovic32
 e616bc33396c402f97fb29b67756de59:cape_stargate // Lulo004
 1f1c8f888ba4400fbb92747a748ed87a:cape_stargate // Luna264
 f2930afe6c0a4375badeae95013ecdef:cape_stargate // lushiita
@@ -623,6 +624,7 @@ d039ff5fd22d42b297d9d5ad00e7a6a5:cape_stargate // Rubijox
 b86fac066f0b4aec8eb9e5d89ba1db96:cape_stargate // Scrome
 c5566ac72abf4ed18e2f7769ab8e2d3e:cape_stargate // shiftegan
 136b420e26714043ac94a67b7604283a:cape_stargate // Shurtz
+234c0e8b450f43c396fe4c161ef9a073:cape_stargate // Silverdark
 9e745c0d19d04746855954ec67484727:cape_stargate // Sir_Fluffyngton
 8e840cf06d7c4f1cb5833d641dad5c8f:cape_stargate // sirtuxedo
 031b4e49b7de43a5b870cb8b2b5eff48:cape_stargate // SlavetotheMetal
