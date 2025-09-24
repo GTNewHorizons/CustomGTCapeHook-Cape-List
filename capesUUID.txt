@@ -632,6 +632,7 @@ c5566ac72abf4ed18e2f7769ab8e2d3e:cape_stargate // shiftegan
 e768d3c658bf4eaf8c2065b8224edc53:cape_stargate // Smalnik
 490de265617f4f1d96b3081d4005f8dd:cape_stargate // Snateraar
 678f3d1b3e6e4c49886678537a05f28d:cape_stargate // Snowleopoldxxx67
+9bf98b916810405e879e5bd2194d5fea:cape_stargate // SoftSir
 7f8f282cd58847af8109b5fb6ed57061:cape_stargate // SoupTopic
 6e871a8f00964589bd320c9c1c7d2083:cape_stargate // SPARKPLUGx44
 c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
