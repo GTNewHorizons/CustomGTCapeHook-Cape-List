@@ -635,6 +635,7 @@ toned_o:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
 Valuta:cape_stargate
+vantoura:cape_stargate
 Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
@@ -696,5 +697,4 @@ The_4th_Doctor_:capedev
 TheEpicGamer274:capedev
 Time_Conqueror:capedev
 Ultra_Prodigy:capedev
-Vlamonster:capedev
 YannickMG:capedev

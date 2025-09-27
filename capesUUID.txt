@@ -646,6 +646,7 @@ bcad9d86756d4e5184d547138ff23b85:cape_stargate // toned_o
 7e39a16106044364926a9054217a3648:cape_stargate // Tsiama907
 7d823ebf667b41b2838d2924dfecfe37:cape_stargate // ttiole
 97f695e9bc894ed38880709449ed4df1:cape_stargate // Valuta
+69913ad2c688472cb0cf1f1450dc3f9f:cape_stargate // vantoura
 fc701e9223a9489eb4586a3e7b5cf400:cape_stargate // Vingy_
 39a754cb320c4be3a94e78c28865f5bc:cape_stargate // vladtheinhaler64
 314baef79a9544f59768fa4986006b73:cape_stargate // WarriorBobRoss
@@ -707,5 +708,4 @@ bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 6839d443b08844adbea03c90a7fde81d:capedev // TheEpicGamer274
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
 ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
-99a4315a24d84f82b9ab65097957774c:capedev // Vlamonster
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
