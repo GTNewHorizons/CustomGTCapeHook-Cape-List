@@ -374,6 +374,7 @@ FaultierStein:cape_steam
 FreedomFR:cape_steam
 Glubit:cape_steam
 Grubling:cape_steam
+Hinkel:cape_steam
 Hungerya:cape_steam
 iskabot:cape_steam
 L4now:cape_steam

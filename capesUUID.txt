@@ -385,6 +385,7 @@ a06354a6b2b340828f4ba78c52fba821:cape_steam // FaultierStein
 f2affc3ecbd846f2a4ba9cc5ac2ef4a5:cape_steam // FreedomFR
 94100dc32bff417f87d1f6ea04ef8d3d:cape_steam // Glubit
 8fe503dcff72487abe457482db26c77d:cape_steam // Grubling
+aa5aa47d56a6412aa3ef4c48b52d1f09:cape_steam // Hinkel
 61fb750705bc479cb9f6f1f87f715b87:cape_steam // Hungerya
 0026ae5197074d8ea9162e260ce3c9fb:cape_steam // iskabot
 55608613e61640c983d243e121b44f66:cape_steam // L4now
