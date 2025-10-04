@@ -573,6 +573,7 @@ minecartdispy:cape_stargate
 MisterGreed:cape_stargate
 Mordred:cape_stargate
 Mr_Ali_Mac:cape_stargate
+MrWisski:cape_stargate
 Nachie:cape_stargate
 nemo075:cape_stargate
 Neodark7:cape_stargate
