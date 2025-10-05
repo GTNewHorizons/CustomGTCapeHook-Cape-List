@@ -225,6 +225,7 @@ BriteLord:capedonor
 Bubuzela:capedonor
 CaeruleusBlue:capedonor
 CallyKoh:capedonor
+Capitaine_30:capedonor
 centmeteenvin:capedonor
 CharlieTuna8:capedonor
 choucousse:capedonor
