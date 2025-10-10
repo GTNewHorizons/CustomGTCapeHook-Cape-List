@@ -377,7 +377,6 @@ f6668ec40e1748d087d75f5b30e2d3a3:capedonor // zMacj3reake
 2bf59164d4924dc58e673f05044c6b64:cape_steam // cyypr
 9550beb7177b4c71aca543c962c21c5d:cape_steam // Daarkenis
 fb04fd66582549abbba3276188eed0e6:cape_steam // DarkShadow44
-824248d3412548b3b7ee38200d744bb4:cape_steam // DesCuddlebat
 a346b3133bb74c30bbf5526dfae0c303:cape_steam // Diamantino_Op
 574ce4f1f0864387a2a3bda8d3255c37:cape_steam // djaquay
 713a0b02b2d24275ad41d406e75979f4:cape_steam // Dreadsoul
@@ -395,7 +394,6 @@ c04cc044f0344492822182403d759b02:cape_steam // leumasme
 3fc76c64b1b24a95b3cf0d7d94db2d75:cape_steam // Misterio7x
 65dc7bb4abba45c3aebf6f9435bc8d67:cape_steam // MrDecimus
 7d56f459bb844e5891b6775ee2d7e92b:cape_steam // MrG
-d3274102977c441e8f572de41720d1c4:cape_steam // MrGundum
 dca6ad66fcbc41968601d36c8c84f531:cape_steam // Nagapito_
 0d4d2b255c984c7185213dae7e5cd1c3:cape_steam // NikkiTomorrow
 e34f2a27378047cb9f3c746005b4a7f8:cape_steam // Paner
@@ -408,7 +406,6 @@ cda1389f0ae14b1fba3ab01718eba450:cape_steam // shining_luna
 b0aab8262c3743348a5b321221569f56:cape_steam // slyd0x
 6c7a0635bbcc4bfeaa6f36f8cf0f00cb:cape_steam // SmokyMtnRed
 834c2c56f09d44638776781cc23f1f2d:cape_steam // StevieNicholai
-cc845cdd7b1e4a93ae109c114a54ff9a:cape_steam // Swololo
 f2e6749e8f2c4dc4a5e48c462ae95b61:cape_steam // Torvik_
 e9aa17dc2d3c45349383fb8ef8983bed:cape_steam // Verknaller
 a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
@@ -446,6 +443,7 @@ f30d8aec646040bcbdf6ad030d5f1b5f:cape_titanium // Strat0z
 8397b175eeee4831b2ab5caf4e86a8d5:cape_titanium // ThatCheesyTaco
 419354f5de6b405688c5eb81f0095945:cape_titanium // TheKawaiiLeafeon
 79527570e6ec457eaedf092fc9d328e8:cape_titanium // Thokert
+32d67174cb7141b794ee2eab358f75a1:cape_titanium // TotegeReplica
 216b4d97ebf74c59b659f4fdba6c1bf3:cape_titanium // TwoDCubee
 bf6dd22c00b24477a5f069a6579d3284:cape_titanium // UltraPeeks
 53cce049a9d543d7a216fb86de80bf96:cape_titanium // UNISOCKCORNELIUS
@@ -512,6 +510,7 @@ b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 54a6abcb9b80431586a62049769cda06:cape_stargate // DEATHICIDE
 123d31b3167e49d1ad9b235e5cb5cbda:cape_stargate // Deathstare
 284f27aca0954658ac98d28993da6519:cape_stargate // Demosthenex
+824248d3412548b3b7ee38200d744bb4:cape_stargate // DesCuddlebat
 55212831eb9e4fa198af6d37f39e4e56:cape_stargate // DevElements
 6a2058bd59fb489babbdf54f63bb1ed6:cape_stargate // Diliskars
 f050833a9bc240ed8f527bee8f9bcd92:cape_stargate // DrRatmouse
@@ -585,6 +584,7 @@ f5f3a07f74b14d049618af88a0884838:cape_stargate // MimiKe_
 93d9a7e4a3284289bc7ade38c0694e11:cape_stargate // MisterGreed
 72f87c199f2f4d04ab7345edc6742a7e:cape_stargate // Mordred
 d45fdcbdb0cb490ab76e52a79225c23b:cape_stargate // Mr_Ali_Mac
+d3274102977c441e8f572de41720d1c4:cape_stargate // MrGundum
 d87d67340a7448da8ed43df046a9e1f5:cape_stargate // MrWisski
 04b2d2d61ba54598a2609ff8432677a8:cape_stargate // Nachie
 52b691312098401b8284008971ddbf62:cape_stargate // nemo075
@@ -641,6 +641,7 @@ e768d3c658bf4eaf8c2065b8224edc53:cape_stargate // Smalnik
 c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
 39be2659252e44d7b1563b3e5377ff0d:cape_stargate // Superhond1357
 fa567b5cd3004c8381209c956299d782:cape_stargate // superjerk187
+cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
 79d2985ad71843c688855be1b4bfe5ee:cape_stargate // Tee_129
 5d4c83e8c0104db08028577a374142ac:cape_stargate // TheBoboNL
 43425faadf2b4b478851ada3eb121b16:cape_stargate // theletterg

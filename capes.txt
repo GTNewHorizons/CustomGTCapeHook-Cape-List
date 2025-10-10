@@ -366,7 +366,6 @@ CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
 DarkShadow44:cape_steam
-DesCuddlebat:cape_steam
 Diamantino_Op:cape_steam
 djaquay:cape_steam
 Dreadsoul:cape_steam
@@ -384,7 +383,6 @@ LinoTheHellbat:cape_steam
 Misterio7x:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
-MrGundum:cape_steam
 Nagapito_:cape_steam
 NikkiTomorrow:cape_steam
 Paner:cape_steam
@@ -397,7 +395,6 @@ shining_luna:cape_steam
 slyd0x:cape_steam
 SmokyMtnRed:cape_steam
 StevieNicholai:cape_steam
-Swololo:cape_steam
 Torvik_:cape_steam
 Verknaller:cape_steam
 Villager361:cape_steam
@@ -435,6 +432,7 @@ texaswriter:cape_titanium
 ThatCheesyTaco:cape_titanium
 TheKawaiiLeafeon:cape_titanium
 Thokert:cape_titanium
+TotegeReplica:cape_titanium
 TwoDCubee:cape_titanium
 UltraPeeks:cape_titanium
 UNISOCKCORNELIUS:cape_titanium
@@ -501,6 +499,7 @@ davidca1226:cape_stargate
 DEATHICIDE:cape_stargate
 Deathstare:cape_stargate
 Demosthenex:cape_stargate
+DesCuddlebat:cape_stargate
 DevElements:cape_stargate
 Diliskars:cape_stargate
 DrRatmouse:cape_stargate
@@ -574,6 +573,7 @@ minecartdispy:cape_stargate
 MisterGreed:cape_stargate
 Mordred:cape_stargate
 Mr_Ali_Mac:cape_stargate
+MrGundum:cape_stargate
 MrWisski:cape_stargate
 Nachie:cape_stargate
 nemo075:cape_stargate
@@ -630,6 +630,7 @@ SPARKPLUGx44:cape_stargate
 stupidwalrus:cape_stargate
 Superhond1357:cape_stargate
 superjerk187:cape_stargate
+Swololo:cape_stargate
 Tee_129:cape_stargate
 TheBoboNL:cape_stargate
 theletterg:cape_stargate
