@@ -443,7 +443,6 @@ f30d8aec646040bcbdf6ad030d5f1b5f:cape_titanium // Strat0z
 8397b175eeee4831b2ab5caf4e86a8d5:cape_titanium // ThatCheesyTaco
 419354f5de6b405688c5eb81f0095945:cape_titanium // TheKawaiiLeafeon
 79527570e6ec457eaedf092fc9d328e8:cape_titanium // Thokert
-32d67174cb7141b794ee2eab358f75a1:cape_titanium // TotegeReplica
 216b4d97ebf74c59b659f4fdba6c1bf3:cape_titanium // TwoDCubee
 bf6dd22c00b24477a5f069a6579d3284:cape_titanium // UltraPeeks
 53cce049a9d543d7a216fb86de80bf96:cape_titanium // UNISOCKCORNELIUS
@@ -506,6 +505,7 @@ e0c8a16402974c408c70b0bf7a754bf5:cape_stargate // Cozzmolot
 e832045d61694271b7962159b8f93e16:cape_stargate // Czolgista123
 316c0004d4e54cfd972860fbed97bc60:cape_stargate // Damos1212
 c0742462711b46d6a48dd3bcacc7ba32:cape_stargate // Darkmaxsas
+2f5dc4e88dd3423dbb97a745a4b46043:cape_stargate // darksabre010
 b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 54a6abcb9b80431586a62049769cda06:cape_stargate // DEATHICIDE
 123d31b3167e49d1ad9b235e5cb5cbda:cape_stargate // Deathstare
@@ -647,6 +647,7 @@ cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
 43425faadf2b4b478851ada3eb121b16:cape_stargate // theletterg
 ab1bb5d5c1984dd8b158377ed7db15d4:cape_stargate // TheSugarLump
 bcad9d86756d4e5184d547138ff23b85:cape_stargate // toned_o
+32d67174cb7141b794ee2eab358f75a1:cape_stargate // TotegeReplica
 7e39a16106044364926a9054217a3648:cape_stargate // Tsiama907
 7d823ebf667b41b2838d2924dfecfe37:cape_stargate // ttiole
 97f695e9bc894ed38880709449ed4df1:cape_stargate // Valuta

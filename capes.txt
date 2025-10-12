@@ -432,7 +432,6 @@ texaswriter:cape_titanium
 ThatCheesyTaco:cape_titanium
 TheKawaiiLeafeon:cape_titanium
 Thokert:cape_titanium
-TotegeReplica:cape_titanium
 TwoDCubee:cape_titanium
 UltraPeeks:cape_titanium
 UNISOCKCORNELIUS:cape_titanium
@@ -495,6 +494,7 @@ Crusader2835:cape_stargate
 Czolgista123:cape_stargate
 Damos1212:cape_stargate
 Darkmaxsas:cape_stargate
+darksabre010:cape_stargate
 davidca1226:cape_stargate
 DEATHICIDE:cape_stargate
 Deathstare:cape_stargate
@@ -636,6 +636,7 @@ TheBoboNL:cape_stargate
 theletterg:cape_stargate
 TheSugarLump:cape_stargate
 toned_o:cape_stargate
+TotegeReplica:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
 Valuta:cape_stargate
