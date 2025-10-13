@@ -384,6 +384,7 @@ Misterio7x:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
 Nagapito_:cape_steam
+nagichan_:cape_steam
 NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
