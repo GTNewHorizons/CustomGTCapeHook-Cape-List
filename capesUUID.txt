@@ -395,7 +395,6 @@ c04cc044f0344492822182403d759b02:cape_steam // leumasme
 65dc7bb4abba45c3aebf6f9435bc8d67:cape_steam // MrDecimus
 7d56f459bb844e5891b6775ee2d7e92b:cape_steam // MrG
 dca6ad66fcbc41968601d36c8c84f531:cape_steam // Nagapito_
-d1afa15ff526472d9e3831b2b199bbde:cape_steam // nagichan_
 0d4d2b255c984c7185213dae7e5cd1c3:cape_steam // NikkiTomorrow
 e34f2a27378047cb9f3c746005b4a7f8:cape_steam // Paner
 c84cd982a3954cfe8531f911973e1ad2:cape_steam // psehr
@@ -588,6 +587,7 @@ d45fdcbdb0cb490ab76e52a79225c23b:cape_stargate // Mr_Ali_Mac
 d3274102977c441e8f572de41720d1c4:cape_stargate // MrGundum
 d87d67340a7448da8ed43df046a9e1f5:cape_stargate // MrWisski
 04b2d2d61ba54598a2609ff8432677a8:cape_stargate // Nachie
+d1afa15ff526472d9e3831b2b199bbde:cape_stargate // nagichan_
 52b691312098401b8284008971ddbf62:cape_stargate // nemo075
 0a63d4bfa29943068fa3b38b47724a30:cape_stargate // Neodark7
 731d02960daf4167b26370b83a0a52d1:cape_stargate // NerverHD

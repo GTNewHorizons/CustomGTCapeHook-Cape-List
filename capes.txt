@@ -384,7 +384,6 @@ Misterio7x:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
 Nagapito_:cape_steam
-nagichan_:cape_steam
 NikkiTomorrow:cape_steam
 Paner:cape_steam
 psehr:cape_steam
@@ -577,6 +576,7 @@ Mr_Ali_Mac:cape_stargate
 MrGundum:cape_stargate
 MrWisski:cape_stargate
 Nachie:cape_stargate
+nagichan_:cape_stargate
 nemo075:cape_stargate
 Neodark7:cape_stargate
 NerverHD:cape_stargate
