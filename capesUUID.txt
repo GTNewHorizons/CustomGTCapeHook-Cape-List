@@ -546,6 +546,7 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 2ad513e97146489e84fa8e781fc8d3a9:cape_stargate // houlht
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
 cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
+87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // ISRAELI_SNIPER67
 9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
 19d1abd6c1844a9ea215e12bf3de1869:cape_stargate // japio
 3c1235b353ef4581b47485cf3c25e551:cape_stargate // Jebud

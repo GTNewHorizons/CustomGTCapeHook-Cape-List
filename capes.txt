@@ -535,6 +535,7 @@ Hornum_:cape_stargate
 houlht:cape_stargate
 Hyperic88:cape_stargate
 IrisMoonglow:cape_stargate
+ISRAELI_SNIPER67:cape_stargate
 JackTimes:cape_stargate
 japio:cape_stargate
 Jebud:cape_stargate
