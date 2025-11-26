@@ -556,6 +556,7 @@ Letifery:cape_stargate
 Leuca:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
+LucyPoindexter:cape_stargate
 ludovic32:cape_stargate
 Lulo004:cape_stargate
 Luna264:cape_stargate

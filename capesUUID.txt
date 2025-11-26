@@ -567,6 +567,7 @@ cbe40c0d9caa46798d31fc0f2f96b113:cape_stargate // KuchenHead
 4a78c4efda1c48eebd77c3852810974b:cape_stargate // Leuca
 e12a7c1b6df247069d0a02e94a1ad148:cape_stargate // Lord_Peverell99
 434bd4dce69f4300985b35d37dc6dfe2:cape_stargate // LordOfLongNez
+304c85c784984d04ae5f20ee76daccd9:cape_stargate // LucyPoindexter
 4abac67b9aab4418984c7c19f13de2be:cape_stargate // ludovic32
 e616bc33396c402f97fb29b67756de59:cape_stargate // Lulo004
 1f1c8f888ba4400fbb92747a748ed87a:cape_stargate // Luna264
