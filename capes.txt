@@ -411,6 +411,7 @@ JamesArhy:cape_titanium
 JerVenture:cape_titanium
 jurrejelle:cape_titanium
 KH_Hansano:cape_titanium
+kirilwapj:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
 Lord_Vid:cape_titanium
