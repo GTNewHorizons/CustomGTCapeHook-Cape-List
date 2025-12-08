@@ -240,6 +240,7 @@ b48f834c0aed48ce80d3232aabcc73fd:capedonor // Bubuzela
 ead2674535a34466969daacdc0c5531a:capedonor // Capitaine_30
 1753882732e84313967e482549b9d0a0:capedonor // centmeteenvin
 ff59ca26c638445f9b4f714675ba250b:capedonor // CharlieTuna8
+f704f98ebe4041fba9a5f370a143fe5b:capedonor // chochem
 b8fb718f84cc487f9b44069338a59c59:capedonor // choucousse
 34ad48be30194046ab9625e924b27bd1:capedonor // CHuDO_LD
 99b47d0b915c48cd81acf2eba42da0be:capedonor // Combuster
@@ -475,6 +476,7 @@ bea4c4215df1400facd100e8e714b789:cape_titanium // VMAZZ44
 2cd01bc5dbae4875bb343a28f848f4fe:cape_titanium // Wylnexon
 8748d319c3ea476c8dd84898e1ea323e:cape_titanium // xkuyax
 b948f10dcbf040568b8189c8acc24864:cape_neutronium // _Dislocator_
+f704f98ebe4041fba9a5f370a143fe5b:cape_neutronium // chochem
 818486c248a846beaeb3240f83cbed7a:cape_neutronium // Der_Giant
 3bee827296da498cadc116871f1d000a:cape_neutronium // diCardinale
 3c24c7f50bd44e1ca3e2709e725d31fe:cape_neutronium // Echo_Djinn
