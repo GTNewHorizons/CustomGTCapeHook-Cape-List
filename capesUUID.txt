@@ -29,7 +29,6 @@ c091f5f075054188a07002c76cb22bba:capeDefault // Azuxul
 ec1375dca6fc42f8ba3e4ebf4614de4c:capeDefault // Beardedflea
 a5267f78f68a420da561ffa17a595a3a:capeDefault // Berserker66
 2d7d76ed7acb460184ede035405dbcaf:capeDefault // BH5432
-27b181d36b844c6691e96500da6bdc2f:capeDefault // Bildeman
 8097d7b9f2de4277ac2d0cb1412e2aac:capeDefault // Bladezz88
 d0e31c364c9540879f4afc42b5bc7005:capeDefault // BloodyAsp
 f601ba346f1644aea599d6b188a805ea:capeDefault // boredi
@@ -176,6 +175,7 @@ a3b292ae7d7740d2bf8ba73b5f37f020:capeDefault // SuperCoder79
 2016b5650a634a2d800bb786ac256288:capeDefault // t3hero
 ce33113d8c554772a682001463b34ec9:capeDefault // TexanMD
 defa4366812c4c72a4fe4de6afa38852:capeDefault // The_Hypersonic
+27b181d36b844c6691e96500da6bdc2f:capeDefault // TheOnlyBartman
 7ebe3a3782154884b225144c77a7e13e:capeDefault // TheSkera
 8c454485fc254566a45f86357ff349ed:capeDefault // TheWorstPHO
 639d699489d84282bc0152c6d7a204e8:capeDefault // TigersFangs
@@ -203,6 +203,7 @@ f17a78f2f78c4987a62d51e49a7ab147:capeDefault // yttr1um
 15552162561244a9a748c8d71a7d180d:capefriedi // Friedi4321
 68af6d40a79e4a2998469d4a319ec774:capegregoriust // GregoriusT
 10833ef6956d4dc1a10a46b3d07ec4d8:capebrain // Mr_Brain
+1a2d303e6f344be7a6ee101990e8794e:capedonor // 1e16
 d341b78f54f84e7b9494c53ea438b52e:capedonor // 4i1
 3cd763fae129405dba42670089da577e:capedonor // _ANonymousPerson
 a6fce4f6d53a473a8b773507f2d16090:capedonor // _Pandoro
@@ -211,7 +212,6 @@ fa7c60516ad64075907f261ed855744f:capedonor // _Teixel_
 8f42a40f814d422b9d6f463b98a1a6c6:capedonor // _Timbo
 9417c4fa196b405a8ce7b113c7c7e831:capedonor // ACanadianGuy
 9d09db75e07e490d98a9b0b63935d46a:capedonor // AcidEgoist
-677200af91ca426c936cde70800ff76e:capedonor // aglowXYZ
 91cd8fdadc6348d8ba5fca3783bd9be4:capedonor // akirapriva
 79052e26710849e4a36f6f65cb0237f2:capedonor // AkumaNoYoru
 73a682409f9b4f319b2d00102eb9c9b8:capedonor // AlastarDArk
@@ -226,6 +226,7 @@ a81faca0f7934b599cedff1465da6711:capedonor // AshenChromatic
 dc8fd34c9bc148ea96d4e597e3ef602f:capedonor // Barokko
 fb0b1d97f6a5456cb1d1883d3a4bdd91:capedonor // Baunti
 c6bb8621cb32407dbf0c5935ed065d06:capedonor // bedrill
+6f66454c1fdc443787f66c6d87bb09de:capedonor // beta_reduction
 27dc7c31409c4ea6ae29ffd064fe5461:capedonor // bi0nicman
 0d3e491ba2ab458c9eb29c6f198bcb56:capedonor // BigZee
 24f84f5106ab40fc8843c649e5d28e35:capedonor // Bimgo
@@ -258,7 +259,7 @@ ed9288bc30744aedaee01c5134945932:capedonor // DooMQuiGonJinn
 f8e5ee0e0fac410493d4982c6a79bbe2:capedonor // Dr_Flop
 838bbb527e294bb68a597172e25967a1:capedonor // Dragendave
 0392bc49aaf34c52b801c0d76262662c:capedonor // DragonTriplets
-6f66454c1fdc443787f66c6d87bb09de:capedonor // dutsky
+677200af91ca426c936cde70800ff76e:capedonor // drippytxy
 f9d696f6339842ffb21f6adea05e960e:capedonor // dxplosiv3
 60bbb69dd205417c85cc7deb88f6aa3e:capedonor // Elegal
 9ba194983ef645ac87061db84a9ceccf:capedonor // EllaWolf2
@@ -276,6 +277,7 @@ b48ffb977f084de783c018ab19d723ad:capedonor // ghoulsblade
 4f07b908c11c4e739d902ffd4642f27c:capedonor // Gmurowski
 84b17a1a878447b08d71b3758b8c258f:capedonor // GrandProficus
 f87ea34ead964d5283489066ed94824f:capedonor // Greg4581
+b51e84041b554b638f4749069acc7c7f:capedonor // GregoriusJ
 fb4223867e8642ea92a09808c5094516:capedonor // Groskoenig_Egert
 ad91e708792f4dd8976015aec701ccb8:capedonor // Hachuurui
 9749ef57499a43c8af2adebe41eed5f1:capedonor // hh_h_h
@@ -283,7 +285,6 @@ ad91e708792f4dd8976015aec701ccb8:capedonor // Hachuurui
 2d5d5190e9d342679b306d5a65b44abb:capedonor // hucking
 f9bb1ab7c6b646749fb30c0e9cdfc02f:capedonor // Impossible_VT
 6208249874634eef9c13f949a8e129f5:capedonor // invultri
-1a2d303e6f344be7a6ee101990e8794e:capedonor // itff
 87f66d1019ea4a388d12ef6a52e71150:capedonor // JailBot
 e7f2d3db0a37481db426da2006ca8e69:capedonor // JustATalkingGoat
 f7b22e74afcc4da99c185a49eff78b5d:capedonor // JustDenniss
@@ -310,6 +311,7 @@ b0425d44ec334cf99e74af5dadcf8be8:capedonor // Naquada
 0a734f181b4241e7a038acc36381ca47:capedonor // Nightmanhh
 d2dc9c9298b746da9713360f03b549af:capedonor // NoctisCalamitas
 87b0f9a391284bba8514fd541054346a:capedonor // Nori_Silverrage
+ffcf572f843c45f6a12f4cdbb64f9ec1:capedonor // Novhex
 39213ae8b3cb4061adb54db13736da86:capedonor // okka676767
 837918905cda445e875430e91afe088d:capedonor // Ourten
 e64dbf9a798c48d689bb9934ef3a05c4:capedonor // panzdenda
@@ -346,7 +348,6 @@ f609e49ea4854086b46c4f91a8bbc3eb:capedonor // TAOMACHINE
 b8a2a247a65141589e2ea54c45e4a679:capedonor // thewaydu
 dd97d05236b54bb7a876d26eea926663:capedonor // Tip_Donaldson
 733ca806cd984e84b0005b6078acdd95:capedonor // Tirm
-b51e84041b554b638f4749069acc7c7f:capedonor // TofuWolf
 8c180524f8f845b291f8dee44ffa0aac:capedonor // un_nain_souciant
 4a9a76ff54214a8da8c44f07b9202b55:capedonor // Urs0
 6f5d9d0122584033af3806c05c41300e:capedonor // Vernyro
@@ -354,7 +355,6 @@ fae66aa3924d4ed48f355ef749554d0f:capedonor // vertibirdo
 59a68c2b2a30473783262120b04a41ca:capedonor // viljar290
 1b83bd62ddbe4bd2b6abffa3204b5755:capedonor // Villemvk123
 9b07d07b3a604ae6a79543c2b02645b7:capedonor // VovAksenov
-ffcf572f843c45f6a12f4cdbb64f9ec1:capedonor // Vylesh
 4017e5038c8c435c96fbbcee64a43ef5:capedonor // wolfdehulster
 bc11639c61074d85bf1c7fb3d5cdfdf1:capedonor // xabedo
 693ca0f9a11040a0af7d42f3dc541e1a:capedonor // xGamma_
@@ -487,7 +487,6 @@ d186bf1af0cd466aa8dd31411feb78e0:cape_stargate // AuroraJesse
 8ada0bd64eec41a283f2f88a50687897:cape_stargate // bechill
 455e5d1eaa684d979bb3b51118f66b76:cape_stargate // beneeney
 472c1affa23d439d9e4a3b2a018d0043:cape_stargate // Billionth00
-9d20ce5078bb4a1ebe3347e7df9cd18b:cape_stargate // BKCRMWDJVG
 e4a83d0399234e54b681ce45040d14a6:cape_stargate // blaasfM
 5ef336d57e6b49bbaf4c0efba45f5823:cape_stargate // BlahBlah81
 b378b164946140d287b243fcdbff109c:cape_stargate // BloodyGulch
@@ -547,7 +546,6 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 2ad513e97146489e84fa8e781fc8d3a9:cape_stargate // houlht
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
 cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
-87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // ISRAELI_SNIPER67
 9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
 19d1abd6c1844a9ea215e12bf3de1869:cape_stargate // japio
 3c1235b353ef4581b47485cf3c25e551:cape_stargate // Jebud
@@ -602,7 +600,6 @@ e36fb8df37df4bfaba3b453fbeadff3e:cape_stargate // NexusNull
 feaf594d815c4465ab86d790c9bd4e3d:cape_stargate // Nick5131
 c0d68e3ab5d54f6eb3da1ddb8830337e:cape_stargate // Nicouuuuu
 c10e70f7ae874076b8aaf4c4d6ac992d:cape_stargate // Niko_mon
-4207d3629ca34e9689d046722a18600b:cape_stargate // NovaSolarine
 0396749beaa04c0488b8dad52ba80bd2:cape_stargate // nugget61565
 4780d557c9374523907bb6e4693e2e30:cape_stargate // nuka_cole
 38869b04a22f466480a5bf939de07adf:cape_stargate // Nulatari
@@ -644,7 +641,9 @@ e768d3c658bf4eaf8c2065b8224edc53:cape_stargate // Smalnik
 9bf98b916810405e879e5bd2194d5fea:cape_stargate // SoftSir
 7f8f282cd58847af8109b5fb6ed57061:cape_stargate // SoupTopic
 6e871a8f00964589bd320c9c1c7d2083:cape_stargate // SPARKPLUGx44
+87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // Stravation
 c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
+4207d3629ca34e9689d046722a18600b:cape_stargate // SuperficialCake
 39be2659252e44d7b1563b3e5377ff0d:cape_stargate // Superhond1357
 fa567b5cd3004c8381209c956299d782:cape_stargate // superjerk187
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
@@ -658,6 +657,7 @@ bcad9d86756d4e5184d547138ff23b85:cape_stargate // toned_o
 7d823ebf667b41b2838d2924dfecfe37:cape_stargate // ttiole
 97f695e9bc894ed38880709449ed4df1:cape_stargate // Valuta
 69913ad2c688472cb0cf1f1450dc3f9f:cape_stargate // vantoura
+9d20ce5078bb4a1ebe3347e7df9cd18b:cape_stargate // VerdantOzark
 fc701e9223a9489eb4586a3e7b5cf400:cape_stargate // Vingy_
 39a754cb320c4be3a94e78c28865f5bc:cape_stargate // vladtheinhaler64
 314baef79a9544f59768fa4986006b73:cape_stargate // WarriorBobRoss
@@ -678,7 +678,7 @@ ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 5719f8d6b2824a2389025a605c06daed:capedev // bigbass1997
 6aa81fb5b3a9433db7734bcf5b41bf34:capedev // BlueWeabo
 9ad8ef2c6c0744189d42d03e7a2c30f8:capedev // bombcar
-86957d1c1bde4095b693a294afa071de:capedev // BredCrom
+86957d1c1bde4095b693a294afa071de:capedev // breadchrom
 fd6e75a3f3c642f9ab7b91cdf4af04a4:capedev // Bryfer
 f704f98ebe4041fba9a5f370a143fe5b:capedev // chochem
 a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
