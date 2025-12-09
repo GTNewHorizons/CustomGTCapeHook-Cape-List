@@ -18,7 +18,6 @@ Bear989Sr:capeDefault
 Beardedflea:capeDefault
 Berserker66:capeDefault
 BH5432:capeDefault
-Bildeman:capeDefault
 Bladezz88:capeDefault
 BloodyAsp:capeDefault
 boredi:capeDefault
@@ -165,6 +164,7 @@ Sylphio:capeDefault
 t3hero:capeDefault
 TexanMD:capeDefault
 The_Hypersonic:capeDefault
+TheOnlyBartman:capeDefault
 TheSkera:capeDefault
 TheWorstPHO:capeDefault
 TigersFangs:capeDefault
@@ -192,6 +192,7 @@ zF4ll3nPr3d4t0r:capeDefault
 Friedi4321:capefriedi
 GregoriusT:capegregoriust
 Mr_Brain:capebrain
+1e16:capedonor
 4i1:capedonor
 _ANonymousPerson:capedonor
 _Pandoro:capedonor
@@ -200,7 +201,6 @@ _Teixel_:capedonor
 _Timbo:capedonor
 ACanadianGuy:capedonor
 AcidEgoist:capedonor
-aglowXYZ:capedonor
 akirapriva:capedonor
 AkumaNoYoru:capedonor
 AlastarDArk:capedonor
@@ -215,6 +215,7 @@ Bamsteh:capedonor
 Barokko:capedonor
 Baunti:capedonor
 bedrill:capedonor
+beta_reduction:capedonor
 bi0nicman:capedonor
 BigZee:capedonor
 Bimgo:capedonor
@@ -247,7 +248,7 @@ DooMQuiGonJinn:capedonor
 Dr_Flop:capedonor
 Dragendave:capedonor
 DragonTriplets:capedonor
-dutsky:capedonor
+drippytxy:capedonor
 dxplosiv3:capedonor
 Elegal:capedonor
 EllaWolf2:capedonor
@@ -265,6 +266,7 @@ gmousss:capedonor
 Gmurowski:capedonor
 GrandProficus:capedonor
 Greg4581:capedonor
+GregoriusJ:capedonor
 Groskoenig_Egert:capedonor
 Hachuurui:capedonor
 hh_h_h:capedonor
@@ -272,7 +274,6 @@ Hillgrove:capedonor
 hucking:capedonor
 Impossible_VT:capedonor
 invultri:capedonor
-itff:capedonor
 JailBot:capedonor
 JustATalkingGoat:capedonor
 JustDenniss:capedonor
@@ -299,6 +300,7 @@ Nayloch:capedonor
 Nightmanhh:capedonor
 NoctisCalamitas:capedonor
 Nori_Silverrage:capedonor
+Novhex:capedonor
 okka676767:capedonor
 Ourten:capedonor
 panzdenda:capedonor
@@ -335,7 +337,6 @@ TheMaddog91:capedonor
 thewaydu:capedonor
 Tip_Donaldson:capedonor
 Tirm:capedonor
-TofuWolf:capedonor
 un_nain_souciant:capedonor
 Urs0:capedonor
 Vernyro:capedonor
@@ -343,7 +344,6 @@ vertibirdo:capedonor
 viljar290:capedonor
 Villemvk123:capedonor
 VovAksenov:capedonor
-Vylesh:capedonor
 wolfdehulster:capedonor
 xabedo:capedonor
 xGamma_:capedonor
@@ -476,7 +476,6 @@ BeardBois:cape_stargate
 bechill:cape_stargate
 beneeney:cape_stargate
 Billionth00:cape_stargate
-BKCRMWDJVG:cape_stargate
 blaasfM:cape_stargate
 BlahBlah81:cape_stargate
 BloodyGulch:cape_stargate
@@ -536,7 +535,6 @@ Hornum_:cape_stargate
 houlht:cape_stargate
 Hyperic88:cape_stargate
 IrisMoonglow:cape_stargate
-ISRAELI_SNIPER67:cape_stargate
 JackTimes:cape_stargate
 japio:cape_stargate
 Jebud:cape_stargate
@@ -591,7 +589,6 @@ NH_Hansano:cape_stargate
 Nick5131:cape_stargate
 Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
-NovaSolarine:cape_stargate
 nugget61565:cape_stargate
 nuka_cole:cape_stargate
 Nulatari:cape_stargate
@@ -633,7 +630,9 @@ Snowleopoldxxx67:cape_stargate
 SoftSir:cape_stargate
 SoupTopic:cape_stargate
 SPARKPLUGx44:cape_stargate
+Stravation:cape_stargate
 stupidwalrus:cape_stargate
+SuperficialCake:cape_stargate
 Superhond1357:cape_stargate
 superjerk187:cape_stargate
 Swololo:cape_stargate
@@ -647,6 +646,7 @@ Tsiama907:cape_stargate
 ttiole:cape_stargate
 Valuta:cape_stargate
 vantoura:cape_stargate
+VerdantOzark:cape_stargate
 Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
@@ -667,7 +667,7 @@ Arnab:capedev
 bigbass1997:capedev
 BlueWeabo:capedev
 bombcar:capedev
-BredCrom:capedev
+breadchrom:capedev
 Bryfer:capedev
 chochem:capedev
 Colen:capedev
