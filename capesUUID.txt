@@ -205,6 +205,7 @@ f17a78f2f78c4987a62d51e49a7ab147:capeDefault // yttr1um
 10833ef6956d4dc1a10a46b3d07ec4d8:capebrain // Mr_Brain
 6fbddf0cf94443ce9dbdb90d56597ff0:capetec // basdxz
 dca867bf2f064f7fafe64cbd8230a364:capetec // pIscript
+da52c0f1d5f44e9a9dca3203daafb155:capetec // _Technus_
 1a2d303e6f344be7a6ee101990e8794e:capedonor // 1e16
 d341b78f54f84e7b9494c53ea438b52e:capedonor // 4i1
 3cd763fae129405dba42670089da577e:capedonor // _ANonymousPerson
