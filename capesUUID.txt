@@ -445,6 +445,7 @@ c84cd982a3954cfe8531f911973e1ad2:cape_steam // psehr
 b60402c72097424d861eb5e973a2a040:cape_steam // Ruvudkin
 6fd51125c0654a7b8b5f6c4f94163acc:cape_steam // Schleimling
 cda1389f0ae14b1fba3ab01718eba450:cape_steam // shining_luna
+aec07a55869040fdbfb647183e4baa05:cape_steam // sillycat4725
 b0aab8262c3743348a5b321221569f56:cape_steam // slyd0x
 6c7a0635bbcc4bfeaa6f36f8cf0f00cb:cape_steam // SmokyMtnRed
 834c2c56f09d44638776781cc23f1f2d:cape_steam // StevieNicholai
@@ -509,6 +510,7 @@ bea4c4215df1400facd100e8e714b789:cape_titanium // VMAZZ44
 48de011ce27f403a962d911fff826845:cape_titanium // wnoa
 2cd01bc5dbae4875bb343a28f848f4fe:cape_titanium // Wylnexon
 8748d319c3ea476c8dd84898e1ea323e:cape_titanium // xkuyax
+150b30aecf34485dbb468d84dae55467:cape_titanium // zeNd3rr
 b948f10dcbf040568b8189c8acc24864:cape_neutronium // _Dislocator_
 f704f98ebe4041fba9a5f370a143fe5b:cape_neutronium // chochem
 818486c248a846beaeb3240f83cbed7a:cape_neutronium // Der_Giant
