@@ -492,6 +492,7 @@ b68590a623ce4ae8a1c1c966fa4a5c58:cape_titanium // Mythrix08
 b485ee0c69384f12a3236b80067c35ac:cape_titanium // P0rtal
 cdb9eecee4884366bb70cb53a4397fba:cape_titanium // ProphecyOak
 acb6f1b635eb4933a7c82b4ec0a77be9:cape_titanium // PureBluez
+52c73732f2b44a049e00abacc4bbc34b:cape_titanium // realspinelle
 67fcb7793e6549d5a8e5a91c574ef498:cape_titanium // rem821
 d0b06aabafc9459dbcf4fb36b24038f6:cape_titanium // s0urdough
 cc2876458f6f4f038d83e55249d33c6d:cape_titanium // Sovishe
