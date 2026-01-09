@@ -629,6 +629,7 @@ b4a23f065e8a45f69e69ab20045bf7cb:cape_stargate // JustBenji
 310f092ef6214ab49a2ae24692944178:cape_stargate // Justiokas
 1f64b36e54204ab9b3602a6f74e1c45c:cape_stargate // Justus0405
 b6c5b4d701ef45909210806b75c939cb:cape_stargate // K_0ji
+c0c7fa3142b345108137c233b3d7d8de:cape_stargate // Kahina
 4fda295c716c4529a8f5b115e3779892:cape_stargate // Kankashii
 66c9b2f58d5f41ae88d832b317c075f9:cape_stargate // Kankytwist
 6c86c4fe098b416ca7aae364b852f063:cape_stargate // Katsuro3
