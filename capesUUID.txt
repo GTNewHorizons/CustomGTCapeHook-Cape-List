@@ -567,6 +567,7 @@ d28e5f134b8444ce9d3251f1b569adda:cape_stargate // boubou_19
 26015046f76247f9a179e702888c8d33:cape_stargate // caca_le_chat
 7727874ac3ac4f81ab2cd4bead89bad8:cape_stargate // Calcarea
 52a19d5336794a7f85305c7c828abc4c:cape_stargate // Chaos_Filler
+92c749325c8a48349b4d2e074f84ee79:cape_stargate // Ciubix8513
 11a5c90cc4f84d1b9c9730269419678a:cape_stargate // CLEPTO
 6459e769fd824e679972072ea3c814e2:cape_stargate // Clta
 e0c8a16402974c408c70b0bf7a754bf5:cape_stargate // Cozzmolot
