@@ -825,3 +825,4 @@ bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 99a4315a24d84f82b9ab65097957774c:capedev // Vlamonster
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
+0829055d1be141eba7952d9eb7cf73bc:capedev // CubeFury
