@@ -780,7 +780,9 @@ d28e5f134b8444ce9d3251f1b569adda:capedev // boubou_19
 fd6e75a3f3c642f9ab7b91cdf4af04a4:capedev // Bryfer
 f704f98ebe4041fba9a5f370a143fe5b:capedev // chochem
 a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
+0829055d1be141eba7952d9eb7cf73bc:capedev // CubeFury
 3e0593a00de14025916ee2f4d8844ca6:capedev // CzT
+ee810ddf064149bc93abea1a379350c9:capedev // danyadev
 5652713c668e47f3853a3fa959a9dfd3:capedev // Draknyte1
 6998d7befc354bdfb3d2a79ce0522aa3:capedev // DreamMasterXXL
 35816848defd41e5bbab2260f3f56121:capedev // Drobac
@@ -815,6 +817,7 @@ f2e1f6c2ef9042bfb96b7513e244bc12:capedev // nspolar
 3174e1917b854a8b98acff4108c2ba14:capedev // Runakai
 c20952dfb4e4473db7b8ba56a7bb2336:capedev // Sampsa_
 a82fb55864f94dd6a87d84040e84bb43:capedev // serenibyss
+f76fc8b3ac6b44b9902376edaf3d5909:capedev // Spicierspace153
 7133b933c01144c28b42a3030e8e551d:capedev // StaffiX
 1c4a9f82b0c74f85a5c8ee2c3c180351:capedev // SuperSoupr
 0d93884cb9954b4f86eb3b3d32828b48:capedev // TalentedGamba
@@ -824,5 +827,5 @@ bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
 ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 99a4315a24d84f82b9ab65097957774c:capedev // Vlamonster
+1f731787c9724e009b464121dbae8d3b:capedev // Vortex2so3
 f819c68f152448e5bfb5b3a85934e08e:capedev // YannickMG
-0829055d1be141eba7952d9eb7cf73bc:capedev // CubeFury
