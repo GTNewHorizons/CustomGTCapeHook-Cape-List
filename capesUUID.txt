@@ -300,6 +300,7 @@ cafa5b0dfc4545ee848b1cc056d45cce:capedonor // hirrao
 61fb750705bc479cb9f6f1f87f715b87:capedonor // Hungerya
 f9bb1ab7c6b646749fb30c0e9cdfc02f:capedonor // Impossible_VT
 6208249874634eef9c13f949a8e129f5:capedonor // invultri
+dd82e2a0f70244baad36fb450cd38182:capedonor // JadedDraconevix
 87f66d1019ea4a388d12ef6a52e71150:capedonor // JailBot
 0a8f9a8b206c4fd68f120bf49d7c7253:capedonor // Just_Benji
 e7f2d3db0a37481db426da2006ca8e69:capedonor // JustATalkingGoat
@@ -423,6 +424,7 @@ aa5aa47d56a6412aa3ef4c48b52d1f09:cape_steam // Hinkel
 93d66ccbbd464b6e9a991ce6db71c664:cape_steam // hscroot
 61fb750705bc479cb9f6f1f87f715b87:cape_steam // Hungerya
 0026ae5197074d8ea9162e260ce3c9fb:cape_steam // iskabot
+4543234c3a7844c088c3944ee9f4044d:cape_steam // jonasdk3
 66c9b2f58d5f41ae88d832b317c075f9:cape_steam // Kankytwist
 9ef676e367df4d5ba1a1ccb3228285e4:cape_steam // KH_Hansano
 55608613e61640c983d243e121b44f66:cape_steam // L4now
@@ -484,6 +486,7 @@ fd35dc839573474cb6cfa31a042d3024:cape_titanium // Lelo_Saiyan
 ab1bceb256914dfe926c79436b49909b:cape_titanium // Lord_Vid
 a4e7a49bfe2e431e9b77887a5ff2a45e:cape_titanium // LordTimmeh
 270574dbe26a4e039c189cc40dc018d4:cape_titanium // LukaPix
+bbf83e33abfc4d96b432910824f59db9:cape_titanium // Marc0Pol0
 c6e651f9c18b4e0ea50c3b72492c28e5:cape_titanium // Martebur
 a4fd57c6fef6430d89f6e376625c8129:cape_titanium // michaels84
 a164f9baec354c778dbf68e17edec129:cape_titanium // Moogrok
@@ -548,6 +551,7 @@ c8599370ea594b22a5e1b76b419dd2fb:cape_stargate // ActuallyMage
 b8141ffbf29744498ef4895a8dc88c8e:cape_stargate // agelian
 3787bdb3b1314a30a2d42b93f87bedd9:cape_stargate // AgentAuers
 ef431e1686294efe811ebefe73e2504b:cape_stargate // AgentLA
+684119355613459a9c7b6a964b7d7c19:cape_stargate // algent
 eb26884df25f46bbbf10afdaae30ab14:cape_stargate // alphaomega21
 e3450dd5c8a34c28aa25a6b5aedadd33:cape_stargate // Ambaw
 bcb6f5c9abce475aab5515ae17a8eaf9:cape_stargate // anon
@@ -766,6 +770,7 @@ c08de6e3ca77428cb90ea83c32c1bc32:cape_stargate // Worive
 39e6b27d2195459eafeb36a71a7bd309:cape_stargate // xauronxx
 557db8fc5e2045deb62aed88742d4476:cape_stargate // Xeno_Ra
 9ba37f8e277a4641b4211a250377ef3c:cape_stargate // xPhilzillax
+efa3567e015a4cc49958942fa1defb39:cape_stargate // YesseYYesseY
 76525b8e038c45a2b40f7363011f51c0:cape_stargate // Yurdol
 72e7304ab5dc4f3d91e960d274605998:cape_stargate // zachary8530
 80ae282d9d8d40c898d7886421f3d6a3:cape_stargate // zedle
