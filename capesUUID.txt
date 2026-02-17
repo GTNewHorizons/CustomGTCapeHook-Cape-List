@@ -783,6 +783,7 @@ ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 d28e5f134b8444ce9d3251f1b569adda:capedev // boubou_19
 86957d1c1bde4095b693a294afa071de:capedev // breadchrom
 fd6e75a3f3c642f9ab7b91cdf4af04a4:capedev // Bryfer
+caeaef99e1d845c0b0d497101a421c62:capedev // C0bra5
 f704f98ebe4041fba9a5f370a143fe5b:capedev // chochem
 a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
 0829055d1be141eba7952d9eb7cf73bc:capedev // CubeFury
