@@ -596,6 +596,7 @@ b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 6998d7befc354bdfb3d2a79ce0522aa3:cape_stargate // DreamMasterXXL
 f050833a9bc240ed8f527bee8f9bcd92:cape_stargate // DrRatmouse
 f20d7921838943b8a0580965b5c19dae:cape_stargate // DrVonBraun
+2e30a3fa7e814deb8d9eaf75e568b209:cape_stargate // DubDubChan
 1f74c0180fbf4b44ae911e040482e815:cape_stargate // E_StarK
 b92a977e2a724b5583e58897243c28df:cape_stargate // Eason1134HK
 041676c286704e20b4a24de3ccb9b499:cape_stargate // egsergio
@@ -671,6 +672,7 @@ c64a24fa098746c086568c9dd70bb7d5:cape_stargate // Mamizoi
 aa4efe588df14f01ac36d3038324d88b:cape_stargate // MattyGroGy
 91eb012b06ab429482c089e12daf78c2:cape_stargate // maxi23090000
 46341707a81d40d1803be5230784faab:cape_stargate // McFlausch
+c8742f91f7174f868626012fb1382e62:cape_stargate // McKaw
 71a097aa765848f9994035e05449f2a3:cape_stargate // Meishuu
 30bd90bce0c04a4f99a2d17f30e20b4b:cape_stargate // MelonSky14
 a4fd57c6fef6430d89f6e376625c8129:cape_stargate // michaels84
@@ -748,6 +750,7 @@ c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
 fa567b5cd3004c8381209c956299d782:cape_stargate // superjerk187
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
 79d2985ad71843c688855be1b4bfe5ee:cape_stargate // Tee_129
+d5330ba176214ce7a2ffc8b8518a65c3:cape_stargate // TehBanana
 5d4c83e8c0104db08028577a374142ac:cape_stargate // TheBoboNL
 43425faadf2b4b478851ada3eb121b16:cape_stargate // theletterg
 ab1bb5d5c1984dd8b158377ed7db15d4:cape_stargate // TheSugarLump
