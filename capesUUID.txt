@@ -545,6 +545,7 @@ ff6f3560d9c14ea792e7226dd921bebc:cape_stargate // 8800088
 219217a455ed4536ba9a3e16b4030f96:cape_stargate // __Trollface
 b86ad63cb5e54b01820f3e77058f0aa0:cape_stargate // _Hokey
 825130c4001443269d6c1315e7f1b13b:cape_stargate // _the_
+ea90bb0fe15544bfb45a76defc294cc6:cape_stargate // _zZaney
 bce50aefe455490d919b7e407bcf8b6c:cape_stargate // Abdiel_Kavash
 c8599370ea594b22a5e1b76b419dd2fb:cape_stargate // ActuallyMage
 89e26c262334400ca2d55b79d08686a6:cape_stargate // AdityaG13
