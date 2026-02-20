@@ -330,6 +330,7 @@ d3274102977c441e8f572de41720d1c4:capedonor // MrGundum
 5b95ad3117f74711a2d099cbf03a28c4:capedonor // Naomuh
 b0425d44ec334cf99e74af5dadcf8be8:capedonor // Naquada
 6d01ef6e691845039c0eede1baa02392:capedonor // Nayloch
+cd5b675448114ba684120218994d5454:capedonor // nicegril
 0a734f181b4241e7a038acc36381ca47:capedonor // Nightmanhh
 d2dc9c9298b746da9713360f03b549af:capedonor // NoctisCalamitas
 87b0f9a391284bba8514fd541054346a:capedonor // Nori_Silverrage
@@ -543,6 +544,7 @@ da3d47c9297c4a29a60adca2e03e960f:cape_neutronium // WungTung
 ff6f3560d9c14ea792e7226dd921bebc:cape_stargate // 8800088
 1056bb8f363a4918892883e4c46296f3:cape_stargate // __tomm__
 219217a455ed4536ba9a3e16b4030f96:cape_stargate // __Trollface
+b5b916fbde4646b0962b266abc34f046:cape_stargate // _Faisal_
 b86ad63cb5e54b01820f3e77058f0aa0:cape_stargate // _Hokey
 825130c4001443269d6c1315e7f1b13b:cape_stargate // _the_
 ea90bb0fe15544bfb45a76defc294cc6:cape_stargate // _zZaney
