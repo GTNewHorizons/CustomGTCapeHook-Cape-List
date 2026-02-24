@@ -514,6 +514,7 @@ f30d8aec646040bcbdf6ad030d5f1b5f:cape_titanium // Strat0z
 419354f5de6b405688c5eb81f0095945:cape_titanium // TheKawaiiLeafeon
 79527570e6ec457eaedf092fc9d328e8:cape_titanium // Thokert
 32d67174cb7141b794ee2eab358f75a1:cape_titanium // TotegeReplica
+57edb271914b4fb1a7e2eb38730222ed:cape_titanium // tweelix
 216b4d97ebf74c59b659f4fdba6c1bf3:cape_titanium // TwoDCubee
 bf6dd22c00b24477a5f069a6579d3284:cape_titanium // UltraPeeks
 53cce049a9d543d7a216fb86de80bf96:cape_titanium // UNISOCKCORNELIUS
@@ -625,6 +626,7 @@ fc25e1d3e4d543c2aa1e2ea0437e9824:cape_stargate // gramalac
 436b0c1ba81c47f3bdafa3e50f92515f:cape_stargate // Grasender_Kevin
 990a2563eb674953b2767361ec18a06e:cape_stargate // Gregifier
 f4fa0f3523b14f328485329c295bfe09:cape_stargate // GRiggs45
+446d806df85c4b8083cd44c1eab7e707:cape_stargate // GummySenpai
 427ada3fcd0743fc96fa217db88a50ae:cape_stargate // gutsy_trev
 c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 8a6130e5891f46cc9e00efc3c7f78b6f:cape_stargate // HARDWORK36HOES
