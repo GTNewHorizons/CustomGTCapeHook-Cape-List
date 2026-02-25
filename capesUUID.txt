@@ -713,6 +713,7 @@ e4d48a7161f74c1c813f4b54ba71cf3a:cape_stargate // Nustafar
 b89f6b8ab64b4faf82201c8577468f21:cape_stargate // Obeliske
 5e3b50114c3d4199968270155b451970:cape_stargate // Ollie_de_Leeuw
 983e7742d11142739e059e868ae6204a:cape_stargate // Omeganeth
+73f3a63a408943279cfad49d7a8c5a71:cape_stargate // Opaq
 79b6c06149c54f628df4c1dee86997bc:cape_stargate // openblocki
 abd3e676f32044f99021043a2b31c387:cape_stargate // OriTheSpirit
 88aa2f8e25924e7eb7b4a53af7d90a7c:cape_stargate // outlawvv
