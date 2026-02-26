@@ -469,6 +469,7 @@ e9aa17dc2d3c45349383fb8ef8983bed:cape_steam // Verknaller
 a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
 28074df6ffdb44c8bd9085c48430cf5b:cape_steam // Yutang13
 9d9587c0bccf4cdbbc42e69498acc066:cape_steam // ZetsuboNemurase
+f0bdb717f44a44989d900cfdccb28e55:cape_steam // ziiippFLOP
 5a519db31079436491bd2326dbb64273:cape_titanium // Aiseus
 b2313b1cd97a4a5cb89bdb6c23372daf:cape_titanium // Azru
 57bd85e90ad245c99abca9926820d345:cape_titanium // CapColt
