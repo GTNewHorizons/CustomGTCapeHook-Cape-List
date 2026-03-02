@@ -459,6 +459,7 @@ b0aab8262c3743348a5b321221569f56:cape_steam // slyd0x
 834c2c56f09d44638776781cc23f1f2d:cape_steam // StevieNicholai
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_steam // Swololo
 2c79f2c72b5d46088698ce6fb476c6a2:cape_steam // syl_boots
+3f9c46c892e04eb99a022c4fb276b881:cape_steam // TheLarinel
 e524d9d16b30469daf74b74e58efc38c:cape_steam // thor_ragnason
 f2e6749e8f2c4dc4a5e48c462ae95b61:cape_steam // Torvik_
 32d67174cb7141b794ee2eab358f75a1:cape_steam // TotegeReplica
@@ -478,6 +479,7 @@ b2313b1cd97a4a5cb89bdb6c23372daf:cape_titanium // Azru
 70f51c64ca6542dfbf7d9912a67f32ac:cape_titanium // Ender
 88aefaa6b58840c59af77ff7f1e3a604:cape_titanium // fappoh
 b73ef2b613d04a24be4a279c21ea8f47:cape_titanium // FerretCentral
+b013a17699644793b107e20a7f47a40c:cape_titanium // Halo_ItsMe
 c664ee589bdd4bcca1da0c1f5566ec82:cape_titanium // Hamster420
 93d66ccbbd464b6e9a991ce6db71c664:cape_titanium // hscroot
 a8b2057569f14693999828138898f3ea:cape_titanium // JamesArhy
