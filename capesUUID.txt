@@ -683,6 +683,7 @@ f2930afe6c0a4375badeae95013ecdef:cape_stargate // lushiita
 3fb029dc980b4c49b7bbe4059e6ef603:cape_stargate // Luxora
 9a6b5dbcf88544b58c39bb995ddc25e7:cape_stargate // Lynx1311
 62c7e2e27e5b494aabe81e0f7518f610:cape_stargate // Lynx_Amurie
+63795895d8e8476bbdb60731a586b453:cape_stargate // Magpie_22
 c64a24fa098746c086568c9dd70bb7d5:cape_stargate // Mamizoi
 641612448ac942a494ca10c91fc2c23a:cape_stargate // MangAGEM
 aa4efe588df14f01ac36d3038324d88b:cape_stargate // MattyGroGy
