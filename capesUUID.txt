@@ -830,6 +830,7 @@ a1c135f8307f45c9974954562c54a2d5:capedev // glease
 1c37e9ccd2ab4cea8100b6945348bb96:capedev // glowredman
 aab7bf6a42d247729439b3731c934b69:capedev // GreasyBuns
 ebba78d096c24c63a97892995f62c236:capedev // HeadOfMetal
+f2fbc091832a4ba4901f56d6af6f92c0:capedev // Huan_F
 1d5fcf82e5dd4790b5f53cb25e1f602f:capedev // Jackowski
 3ccedf3f928846908776453b8ab35531:capedev // jss2a98aj
 fb8e8de1b12c4179b22089424de22141:capedev // KiloJoel
@@ -847,6 +848,7 @@ d7c74abba09748859a97b34f1fe59143:capedev // miozune
 266e4630c30d48c198231cfc5e0a22e7:capedev // NotAPenguin0
 f2e1f6c2ef9042bfb96b7513e244bc12:capedev // nspolar
 928789bb9c8d42d2ac04642bf7912bab:capedev // Pavo_IndusSC
+a052ca195c8c461694a445e737b48005:capedev // Ranzu
 9f9b40b0629a4c4eae6a6447a8b92b08:capedev // ReignOfFROZE
 3174e1917b854a8b98acff4108c2ba14:capedev // Runakai
 c20952dfb4e4473db7b8ba56a7bb2336:capedev // Sampsa_
