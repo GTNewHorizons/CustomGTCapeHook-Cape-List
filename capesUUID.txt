@@ -813,6 +813,7 @@ d28e5f134b8444ce9d3251f1b569adda:capedev // boubou_19
 fd6e75a3f3c642f9ab7b91cdf4af04a4:capedev // Bryfer
 caeaef99e1d845c0b0d497101a421c62:capedev // C0bra5
 f704f98ebe4041fba9a5f370a143fe5b:capedev // chochem
+d80c9cf4fa924f46af93cdafdfe0d09c:capedev // CocoH1234
 a6d2d65c9cb54e829bdc98d64ce48172:capedev // Colen
 0829055d1be141eba7952d9eb7cf73bc:capedev // CubeFury
 3e0593a00de14025916ee2f4d8844ca6:capedev // CzT
@@ -830,6 +831,7 @@ a1c135f8307f45c9974954562c54a2d5:capedev // glease
 1c37e9ccd2ab4cea8100b6945348bb96:capedev // glowredman
 aab7bf6a42d247729439b3731c934b69:capedev // GreasyBuns
 ebba78d096c24c63a97892995f62c236:capedev // HeadOfMetal
+f2fbc091832a4ba4901f56d6af6f92c0:capedev // Huan_F
 320d767ff85d4c458c3c88dc42d60c8d:capedev // iOuter
 1d5fcf82e5dd4790b5f53cb25e1f602f:capedev // Jackowski
 3ccedf3f928846908776453b8ab35531:capedev // jss2a98aj
@@ -848,6 +850,7 @@ d7c74abba09748859a97b34f1fe59143:capedev // miozune
 266e4630c30d48c198231cfc5e0a22e7:capedev // NotAPenguin0
 f2e1f6c2ef9042bfb96b7513e244bc12:capedev // nspolar
 928789bb9c8d42d2ac04642bf7912bab:capedev // Pavo_IndusSC
+a052ca195c8c461694a445e737b48005:capedev // Ranzu
 9f9b40b0629a4c4eae6a6447a8b92b08:capedev // ReignOfFROZE
 3174e1917b854a8b98acff4108c2ba14:capedev // Runakai
 c20952dfb4e4473db7b8ba56a7bb2336:capedev // Sampsa_
