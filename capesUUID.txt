@@ -774,6 +774,7 @@ cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
 79d2985ad71843c688855be1b4bfe5ee:cape_stargate // Tee_129
 d5330ba176214ce7a2ffc8b8518a65c3:cape_stargate // TehBanana
 0b1f6ed8e0e24df1acda1bac6573fdad:cape_stargate // tern_navi
+e2600856da154586bd85e563b2e34ebb:cape_stargate // Teutonen
 5d4c83e8c0104db08028577a374142ac:cape_stargate // TheBoboNL
 43425faadf2b4b478851ada3eb121b16:cape_stargate // theletterg
 ab1bb5d5c1984dd8b158377ed7db15d4:cape_stargate // TheSugarLump
