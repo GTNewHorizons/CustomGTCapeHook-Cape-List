@@ -709,6 +709,7 @@ d32d2963ee8e4170b1ab3bf795fd892f:cape_stargate // monopompom
 d45fdcbdb0cb490ab76e52a79225c23b:cape_stargate // Mr_Ali_Mac
 d3274102977c441e8f572de41720d1c4:cape_stargate // MrGundum
 d87d67340a7448da8ed43df046a9e1f5:cape_stargate // MrWisski
+3fb10adcd8db4f2d9c1a1519c0ef7ec8:cape_stargate // MyhBalaker
 04b2d2d61ba54598a2609ff8432677a8:cape_stargate // Nachie
 d1afa15ff526472d9e3831b2b199bbde:cape_stargate // nagichan_
 52b691312098401b8284008971ddbf62:cape_stargate // nemo075
