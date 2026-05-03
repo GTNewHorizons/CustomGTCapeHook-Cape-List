@@ -219,11 +219,10 @@ fa7c60516ad64075907f261ed855744f:capedonor // _Teixel_
 91cd8fdadc6348d8ba5fca3783bd9be4:capedonor // akirapriva
 79052e26710849e4a36f6f65cb0237f2:capedonor // AkumaNoYoru
 73a682409f9b4f319b2d00102eb9c9b8:capedonor // AlastarDArk
-fc56cfa8fe1e4ed0bef6bf1782da84c4:capedonor // Alastors_Game
 f951b1f2f9ae474cb7712cf7bef806fb:capedonor // Alrightsc
 b0d5472655414043bc0990643c062923:capedonor // AlucardMGrim
-6a9709294c2b4e44af3651b720f72f29:capedonor // Andreychik32
 f8aeae548c524b35a74da8486648be36:capedonor // Anima
+6a9709294c2b4e44af3651b720f72f29:capedonor // ankardi
 a81faca0f7934b599cedff1465da6711:capedonor // AshenChromatic
 26c4881fc7084c5daa764419c3a1265b:capedonor // asturrial
 12451975186347bd9d1f75c1eaea292b:capedonor // Bamsteh
@@ -314,13 +313,14 @@ ea722b6bccf84f0198838486af3a406d:capedonor // Kittytob
 dc4b75e70cc7405e8c4875e3c2a348a8:capedonor // Kunanononon
 7cb1c8cccbf54f49882157e0c6906c11:capedonor // Kyndist
 38e5a4d4234a4a8f93e1e84d9295dd5a:capedonor // Lardyking
-b664ac2bfea84677accadcbc657a0873:capedonor // lipou89
+fc56cfa8fe1e4ed0bef6bf1782da84c4:capedonor // Lethalargy
 b2310e5413844ed0b53812022604fe44:capedonor // LittleCircles
 b36f6faade284bdfbed93bc5b84ac46c:capedonor // Logos
 352228d5efe2474f9f830991f79c4b90:capedonor // Logy1
 41f89c277fc1463faa8405cb1ddc1289:capedonor // lordshelby
 3049b6f9e4a34759944d81c7d5bf8892:capedonor // Luka_Pix
 6fd23ac0161a481197c5a06494b5897e:capedonor // MaitreCarl
+b664ac2bfea84677accadcbc657a0873:capedonor // Maxana_The_Avali
 46341707a81d40d1803be5230784faab:capedonor // McFlausch
 d212b0d4f5574fff8f12a7300d9009f7:capedonor // MeniMeni
 4ce3cce32f744930b83f169969374ce6:capedonor // Mivhs
@@ -344,7 +344,6 @@ e64dbf9a798c48d689bb9934ef3a05c4:capedonor // panzdenda
 e1e1c8942a314858928ea750b7b3ccf3:capedonor // PaoMSBS
 ec9e353653cc4107bc05a4b5d2a3d70b:capedonor // phineasor
 ba57613b41b340fb82e6fb6ff0ce9628:capedonor // PinguinTrooper
-688c25b91ce64501b234e10086c90544:capedonor // pompiere
 befbe081842e4a2a841c8cf67c5074dd:capedonor // PrivateDijon
 732bb59f3c87473880d0d46eb230d1b6:capedonor // qDshun
 77717ee11f8743adb3bc700715ae3924:capedonor // Quarsy
@@ -367,12 +366,13 @@ cf1152d8c2544f278607d69a62ab6dab:capedonor // Shamancs
 b0aab8262c3743348a5b321221569f56:capedonor // slyd0x
 7f8f282cd58847af8109b5fb6ed57061:capedonor // SoupTopic
 afc4007c70ff4d3d94129b0594f2e772:capedonor // Spacebuilder2020
+688c25b91ce64501b234e10086c90544:capedonor // Spagheetti
 c2fff3baa6a74ae48fab9d270937f325:capedonor // Spowart
 a580748ef1ea4ab28e0e2ba6d2d9d5c4:capedonor // Srdra
 64aef3f7756c400f9963a35f24a424dd:capedonor // Storyboard
 4af954f8d04f4bb28c2244201ed2180a:capedonor // Syarocchi
 28a8ed9a4a994149af6e7c4db69603e8:capedonor // Szajkop
-b1481d245bbc4a4594b556e3ee599f5d:capedonor // tandemvolcano
+b1481d245bbc4a4594b556e3ee599f5d:capedonor // tandemv
 f609e49ea4854086b46c4f91a8bbc3eb:capedonor // TAOMACHINE
 59dc339f7e9b4ff1b01b911f1de3d7cd:capedonor // TheMaddog91
 b8a2a247a65141589e2ea54c45e4a679:capedonor // thewaydu
@@ -625,7 +625,6 @@ a3ce4c51826342299c05b9d8fdff4541:cape_stargate // Evaleon
 f92d3e2b62f349d5b359f7ec02728d20:cape_stargate // F_S_Q
 88aefaa6b58840c59af77ff7f1e3a604:cape_stargate // fappoh
 a54aa3782e264388b088cdcb27f17b58:cape_stargate // FBIDonut
-87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // FemboyStravation
 d50b616ec6ca4324be8d70fc0c0786df:cape_stargate // Flame_Light
 ca399a5bd1bb46e3af5b5939817b5cf8:cape_stargate // Fobius
 9aa54628598544e381e414be8f34f4b7:cape_stargate // FriendlyButFire
@@ -708,6 +707,7 @@ d32d2963ee8e4170b1ab3bf795fd892f:cape_stargate // monopompom
 72f87c199f2f4d04ab7345edc6742a7e:cape_stargate // Mordred
 18fbb817c5f54b6290a7cdf9f2320d47:cape_stargate // Mori_Shinichi
 d45fdcbdb0cb490ab76e52a79225c23b:cape_stargate // Mr_Ali_Mac
+65dc7bb4abba45c3aebf6f9435bc8d67:cape_stargate // MrDecimus
 d3274102977c441e8f572de41720d1c4:cape_stargate // MrGundum
 d87d67340a7448da8ed43df046a9e1f5:cape_stargate // MrWisski
 3fb10adcd8db4f2d9c1a1519c0ef7ec8:cape_stargate // MyhBalaker
@@ -771,6 +771,7 @@ e768d3c658bf4eaf8c2065b8224edc53:cape_stargate // Smalnik
 7f8f282cd58847af8109b5fb6ed57061:cape_stargate // SoupTopic
 6e871a8f00964589bd320c9c1c7d2083:cape_stargate // SPARKPLUGx44
 0da6a45cbe9e469688b2e07f77e7fa2a:cape_stargate // Stars_27
+87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // Stravation
 22d52d261d174c1682a106650b226ec3:cape_stargate // Struff3llo
 c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
 4207d3629ca34e9689d046722a18600b:cape_stargate // SuperficialCake
