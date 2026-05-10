@@ -713,6 +713,7 @@ d87d67340a7448da8ed43df046a9e1f5:cape_stargate // MrWisski
 3fb10adcd8db4f2d9c1a1519c0ef7ec8:cape_stargate // MyhBalaker
 04b2d2d61ba54598a2609ff8432677a8:cape_stargate // Nachie
 d1afa15ff526472d9e3831b2b199bbde:cape_stargate // nagichan_
+b50cb62b8f6449ef9aea8c8123d1a13f:cape_stargate // NaviJust
 52b691312098401b8284008971ddbf62:cape_stargate // nemo075
 0a63d4bfa29943068fa3b38b47724a30:cape_stargate // Neodark7
 731d02960daf4167b26370b83a0a52d1:cape_stargate // NerverHD
