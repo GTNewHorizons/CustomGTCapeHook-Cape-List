@@ -818,6 +818,7 @@ b66a083888e34e88a4f1b5219ef8ca9a:cape_stargate // Z2800667
 80ae282d9d8d40c898d7886421f3d6a3:cape_stargate // zedle
 ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 57715d32a6854e2eae6854c19808b58d:capedev // Alexdoru
+6b66f56dbca446a38cc4a2e21f51e973:capedev // AlpDerps
 9005759fc0464e3b8ed1b1468a827ce3:capedev // Arnab
 5719f8d6b2824a2389025a605c06daed:capedev // bigbass1997
 6aa81fb5b3a9433db7734bcf5b41bf34:capedev // BlueWeabo
@@ -855,6 +856,7 @@ b0f349ab6bef4f4bafc6ccc202678316:capedev // kuba6000
 09752aa38b9c4f8fb04f5421e799547d:capedev // leagris
 041244fdbe5b45d4a3f7ccaece4e0874:capedev // Lewis_Saber
 c772a6486eeb4007b134558d016c97fb:capedev // Mad_Man310
+165dffeb14d8471994bf422dc8618aab:capedev // McTNTCrafter
 c053f6dc6ea14758822d40f1622f0fed:capedev // minecraft7771
 d7c74abba09748859a97b34f1fe59143:capedev // miozune
 6b7f9585308b4daa87f3e339bde9c6a2:capedev // mitchej123
@@ -876,6 +878,7 @@ f76fc8b3ac6b44b9902376edaf3d5909:capedev // spicierspace153
 f2ba3ce06dbb45cabb479c19e23ab5d5:capedev // Teteros
 bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 6839d443b08844adbea03c90a7fde81d:capedev // TheEpicGamer274
+01977d397106449dbf9ee3497ca7c557:capedev // tiffit
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
 ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 99a4315a24d84f82b9ab65097957774c:capedev // Vlamonster
