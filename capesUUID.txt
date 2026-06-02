@@ -462,6 +462,7 @@ aec07a55869040fdbfb647183e4baa05:cape_steam // sillycat4725
 b0aab8262c3743348a5b321221569f56:cape_steam // slyd0x
 6c7a0635bbcc4bfeaa6f36f8cf0f00cb:cape_steam // SmokyMtnRed
 834c2c56f09d44638776781cc23f1f2d:cape_steam // StevieNicholai
+2bbff34cd4094da2ac1293e39995e8da:cape_steam // SvenVanSnooze
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_steam // Swololo
 2c79f2c72b5d46088698ce6fb476c6a2:cape_steam // syl_boots
 3f9c46c892e04eb99a022c4fb276b881:cape_steam // TheLarinel
@@ -650,6 +651,7 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 2ad513e97146489e84fa8e781fc8d3a9:cape_stargate // houlht
 93d66ccbbd464b6e9a991ce6db71c664:cape_stargate // hscroot
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
+061b54b0dd4d4a23a99177b972d3b205:cape_stargate // Ice__Blast
 cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
 13ad248241fa4fe482eca003f5fc5f31:cape_stargate // istoleyurballs
 9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
@@ -657,6 +659,7 @@ cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
 3c1235b353ef4581b47485cf3c25e551:cape_stargate // Jebud
 a474314cf7c346eb99daeb8d85d5dfb7:cape_stargate // Jordan3688
 e1713c0716c042859c9855491ffd03a3:cape_stargate // JosephTX4
+ee4317eccfbe4348989c5d15a6ea45c4:cape_stargate // JTM87
 0a8f9a8b206c4fd68f120bf49d7c7253:cape_stargate // Just_Benji
 a05a6ec71965435a819c9651db28aaae:cape_stargate // JustACasualDay
 b4a23f065e8a45f69e69ab20045bf7cb:cape_stargate // JustBenji
@@ -666,6 +669,7 @@ b6c5b4d701ef45909210806b75c939cb:cape_stargate // K_0ji
 c0c7fa3142b345108137c233b3d7d8de:cape_stargate // Kahina
 4fda295c716c4529a8f5b115e3779892:cape_stargate // Kankashii
 66c9b2f58d5f41ae88d832b317c075f9:cape_stargate // Kankytwist
+565556a63a4944959614b78406d0868a:cape_stargate // Karlet
 6c86c4fe098b416ca7aae364b852f063:cape_stargate // Katsuro3
 bbf2d70f37fd45ef81ea7dbd0325661e:cape_stargate // Kevin7798
 ea722b6bccf84f0198838486af3a406d:cape_stargate // Kittytob
