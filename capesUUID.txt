@@ -19,7 +19,6 @@ cf299609ac554d9d8803f136b87193e9:capeDefault // adamros
 69d489a9fd174de3bb73dc8add7b0c2a:capeDefault // Aerosalo
 f6d247253ea4409ba3fc6fc55767d392:capeDefault // aka13_404
 e45e3c6b131f47718100f501bd3b675d:capeDefault // alexbegt
-8ca9b5481c014f9cab80395e0174cd49:capeDefault // ArcturusCercilus
 396309fb477645a1b61b8ec155c5470f:capeDefault // AshLeee
 1b650743e9f8413fb5f04eb937180365:capeDefault // Asutoro
 221812767a2641398a6b526242adf668:capeDefault // Axlegear
@@ -76,6 +75,7 @@ ac70160404f54210ab004e342a99f2a2:capeDefault // freebug
 abafd19adf814077a0a54e7e0c065ec3:capeDefault // fry_lad
 dd107a4c1cab4b4baaa456438e3c92f7:capeDefault // GarretSidzaka
 9ca1c700d0a2424a99126e06ffd7217e:capeDefault // GeekTechMedia
+8ca9b5481c014f9cab80395e0174cd49:capeDefault // GenSigfriedSkye
 edb3ad2b2bb5447fa5382b7f62cd5c80:capeDefault // Geostyx
 3172f7495c784005965523dcddec845d:capeDefault // goreacraft
 98dd132b4d4f495d8665592f97ab7344:capeDefault // Goshen
@@ -417,7 +417,7 @@ a346b3133bb74c30bbf5526dfae0c303:cape_steam // Diamantino_Op
 574ce4f1f0864387a2a3bda8d3255c37:cape_steam // djaquay
 d3382e699b7f4b52a474bfdf74c2d195:cape_steam // DoomTag1
 713a0b02b2d24275ad41d406e75979f4:cape_steam // Dreadsoul
-98b17edfebe74d9e90a2002126f57297:cape_steam // Erai93
+98b17edfebe74d9e90a2002126f57297:cape_steam // Er4i93
 a06354a6b2b340828f4ba78c52fba821:cape_steam // FaultierStein
 f2affc3ecbd846f2a4ba9cc5ac2ef4a5:cape_steam // FreedomFR
 c0d97b4c4d7a4ac58c0d60e7731aadb1:cape_steam // Genzo
