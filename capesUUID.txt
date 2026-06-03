@@ -492,6 +492,7 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_titanium // Hamster420
 a8b2057569f14693999828138898f3ea:cape_titanium // JamesArhy
 f57930b3a40b460aa26425b869b55f7a:cape_titanium // JerVenture
 c18c1d7f317442c681dc3c7ff9f720c3:cape_titanium // jurrejelle
+6bac0f445722456db64b7517aa149ade:cape_titanium // kelpshav
 9ef676e367df4d5ba1a1ccb3228285e4:cape_titanium // KH_Hansano
 39de89b3782f49279193550e7a53ee2e:cape_titanium // kirilwapj
 5d51a232c5864697a1f735f4501f3797:cape_titanium // Kremnari
@@ -504,6 +505,7 @@ c6e651f9c18b4e0ea50c3b72492c28e5:cape_titanium // Martebur
 a4fd57c6fef6430d89f6e376625c8129:cape_titanium // michaels84
 a164f9baec354c778dbf68e17edec129:cape_titanium // Moogrok
 19092f14255f4af9aebce16ee700649b:cape_titanium // MorganC46
+65dc7bb4abba45c3aebf6f9435bc8d67:cape_titanium // MrDecimus
 d3274102977c441e8f572de41720d1c4:cape_titanium // MrGundum
 b68590a623ce4ae8a1c1c966fa4a5c58:cape_titanium // Mythrix08
 52b691312098401b8284008971ddbf62:cape_titanium // nemo075
