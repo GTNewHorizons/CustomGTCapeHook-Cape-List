@@ -612,6 +612,7 @@ b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 54a6abcb9b80431586a62049769cda06:cape_stargate // DEATHICIDE
 123d31b3167e49d1ad9b235e5cb5cbda:cape_stargate // Deathstare
 284f27aca0954658ac98d28993da6519:cape_stargate // Demosthenex
+0b731cfcb78f4b2fb665c75fbda2668b:cape_stargate // DerBoon
 824248d3412548b3b7ee38200d744bb4:cape_stargate // DesCuddlebat
 55212831eb9e4fa198af6d37f39e4e56:cape_stargate // DevElements
 6a2058bd59fb489babbdf54f63bb1ed6:cape_stargate // Diliskars
@@ -736,6 +737,7 @@ c0d68e3ab5d54f6eb3da1ddb8830337e:cape_stargate // Nicouuuuu
 e4d48a7161f74c1c813f4b54ba71cf3a:cape_stargate // Nustafar
 8603f518c2f1407db01990aa022e22bf:cape_stargate // nwmqpa
 b89f6b8ab64b4faf82201c8577468f21:cape_stargate // Obeliske
+ded429217ca64045bb93117e7cb16916:cape_stargate // Ofedia
 5e3b50114c3d4199968270155b451970:cape_stargate // Ollie_de_Leeuw
 983e7742d11142739e059e868ae6204a:cape_stargate // Omeganeth
 73f3a63a408943279cfad49d7a8c5a71:cape_stargate // Opaq
