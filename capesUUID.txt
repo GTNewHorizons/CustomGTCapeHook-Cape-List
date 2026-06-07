@@ -479,6 +479,7 @@ a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
 f0bdb717f44a44989d900cfdccb28e55:cape_steam // ziiippFLOP
 5a519db31079436491bd2326dbb64273:cape_titanium // Aiseus
 b2313b1cd97a4a5cb89bdb6c23372daf:cape_titanium // Azru
+d28e5f134b8444ce9d3251f1b569adda:cape_titanium // boubou_19
 57bd85e90ad245c99abca9926820d345:cape_titanium // CapColt
 70aae6f54c044592b3e3bf57fabf6919:cape_titanium // clzola
 9779bd186b8446b99f11f0cfdd73111a:cape_titanium // codidu
@@ -536,6 +537,7 @@ bea4c4215df1400facd100e8e714b789:cape_titanium // VMAZZ44
 8748d319c3ea476c8dd84898e1ea323e:cape_titanium // xkuyax
 150b30aecf34485dbb468d84dae55467:cape_titanium // zeNd3rr
 b948f10dcbf040568b8189c8acc24864:cape_neutronium // _Dislocator_
+d28e5f134b8444ce9d3251f1b569adda:cape_neutronium // boubou_19
 f704f98ebe4041fba9a5f370a143fe5b:cape_neutronium // chochem
 818486c248a846beaeb3240f83cbed7a:cape_neutronium // Der_Giant
 3bee827296da498cadc116871f1d000a:cape_neutronium // diCardinale
