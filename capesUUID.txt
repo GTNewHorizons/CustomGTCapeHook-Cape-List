@@ -637,6 +637,7 @@ ca399a5bd1bb46e3af5b5939817b5cf8:cape_stargate // Fobius
 2a75eed9ca00462d9d53edc32dfe2fe7:cape_stargate // Frikkle
 2e712b4d656f4ef6a7c918897e49b2bd:cape_stargate // Frisia
 c545d0d60a7e4bc490b73250b96e2447:cape_stargate // Furious_2014
+8fb19f8d101a47da8f8991c26101ddb4:cape_stargate // FuZionRedX
 ee4f091c1f17489cb106f35d9a104cae:cape_stargate // Gatsugame
 ecbfbbdf01214b0ea371105d9a5b9619:cape_stargate // GlycemiaDaddy
 fc25e1d3e4d543c2aa1e2ea0437e9824:cape_stargate // gramalac
