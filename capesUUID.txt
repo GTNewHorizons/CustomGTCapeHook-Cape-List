@@ -547,6 +547,7 @@ f704f98ebe4041fba9a5f370a143fe5b:cape_neutronium // chochem
 93d66ccbbd464b6e9a991ce6db71c664:cape_neutronium // hscroot
 b9b8d45973fc4bc5a824888ec3519c4c:cape_neutronium // Hydrant
 c177383d89484bd18cd005c08375d7d5:cape_neutronium // Hyejin
+65dc7bb4abba45c3aebf6f9435bc8d67:cape_neutronium // MrDecimus
 d3274102977c441e8f572de41720d1c4:cape_neutronium // MrGundum
 c202443426b148a18ebfa5e0faaa450a:cape_neutronium // ojemine
 cfb72ba27b2d4de79589d1b04401ac9c:cape_neutronium // Orbadon
