@@ -839,6 +839,7 @@ b66a083888e34e88a4f1b5219ef8ca9a:cape_stargate // Z2800667
 5f7d17a492764386b6e0b5166a8da038:cape_stargate // zeromega
 ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 57715d32a6854e2eae6854c19808b58d:capedev // Alexdoru
+684119355613459a9c7b6a964b7d7c19:capedev // algent
 6b66f56dbca446a38cc4a2e21f51e973:capedev // AlpDerps
 9005759fc0464e3b8ed1b1468a827ce3:capedev // Arnab
 1160d190aa0b4dbf9beb1c598428ad77:capedev // attempt0
