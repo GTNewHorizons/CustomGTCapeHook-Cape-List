@@ -473,6 +473,7 @@ cc845cdd7b1e4a93ae109c114a54ff9a:cape_steam // Swololo
 e524d9d16b30469daf74b74e58efc38c:cape_steam // thor_ragnason
 f2e6749e8f2c4dc4a5e48c462ae95b61:cape_steam // Torvik_
 32d67174cb7141b794ee2eab358f75a1:cape_steam // TotegeReplica
+3cf10b68529445fea9617b2947456e9d:cape_steam // Trockenbauwand
 2b6b8db3e0cd4ea189bf4c2b3400e218:cape_steam // Trockyz
 e53c90ec34a3457cabe65c7062eee954:cape_steam // Tymekin
 69913ad2c688472cb0cf1f1450dc3f9f:cape_steam // vantoura
@@ -627,6 +628,7 @@ b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 824248d3412548b3b7ee38200d744bb4:cape_stargate // DesCuddlebat
 55212831eb9e4fa198af6d37f39e4e56:cape_stargate // DevElements
 6a2058bd59fb489babbdf54f63bb1ed6:cape_stargate // Diliskars
+a654060d194e4e9491b030fdbc997fb1:cape_stargate // draeath
 6998d7befc354bdfb3d2a79ce0522aa3:cape_stargate // DreamMasterXXL
 f050833a9bc240ed8f527bee8f9bcd92:cape_stargate // DrRatmouse
 f20d7921838943b8a0580965b5c19dae:cape_stargate // DrVonBraun
