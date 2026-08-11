@@ -503,6 +503,7 @@ c18c1d7f317442c681dc3c7ff9f720c3:cape_titanium // jurrejelle
 39de89b3782f49279193550e7a53ee2e:cape_titanium // kirilwapj
 5d51a232c5864697a1f735f4501f3797:cape_titanium // Kremnari
 fd35dc839573474cb6cfa31a042d3024:cape_titanium // Lelo_Saiyan
+45f34457fc5e4859b06201bf08ac00c2:cape_titanium // logiando
 ab1bceb256914dfe926c79436b49909b:cape_titanium // Lord_Vid
 a4e7a49bfe2e431e9b77887a5ff2a45e:cape_titanium // LordTimmeh
 270574dbe26a4e039c189cc40dc018d4:cape_titanium // LukaPix
