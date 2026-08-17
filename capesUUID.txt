@@ -806,6 +806,7 @@ c35c976e1b15410482acd265e054379e:cape_stargate // SmoothKnees
 9bf98b916810405e879e5bd2194d5fea:cape_stargate // SoftSir
 908e4c5d877e413b836b1912b6355dad:cape_stargate // soratidus999
 7f8f282cd58847af8109b5fb6ed57061:cape_stargate // SoupTopic
+06d0cb5718564afe97c204551e09755e:cape_stargate // SovietWoschi
 6e871a8f00964589bd320c9c1c7d2083:cape_stargate // SPARKPLUGx44
 0da6a45cbe9e469688b2e07f77e7fa2a:cape_stargate // Stars_27
 87b4cb8e8cca461da6b25d98993d8bb1:cape_stargate // Stravation
