@@ -493,6 +493,7 @@ d28e5f134b8444ce9d3251f1b569adda:cape_titanium // boubou_19
 88aefaa6b58840c59af77ff7f1e3a604:cape_titanium // fappoh
 b73ef2b613d04a24be4a279c21ea8f47:cape_titanium // FerretCentral
 76e0ea352e864b959d8b73c50c41c073:cape_titanium // Gr4c3ful
+21e1d2911e4a4c1fa95316b4fa5f3300:cape_titanium // HallowedGwen
 b013a17699644793b107e20a7f47a40c:cape_titanium // Halo_ItsMe
 c664ee589bdd4bcca1da0c1f5566ec82:cape_titanium // Hamster420
 93d66ccbbd464b6e9a991ce6db71c664:cape_titanium // hscroot
