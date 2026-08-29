@@ -274,6 +274,7 @@ b92a977e2a724b5583e58897243c28df:capedonor // Eason1134HK
 d1d10de3904b4f309af4c1ae3a711059:capedonor // ElNounch
 7fa7d0ede1294dcea52305081151afe2:capedonor // Excruciation
 21e8da1464d0495a9b68a227f12aa542:capedonor // Ferigad
+09a1c900ebc74f8f9ada4bfaa0a5e3d5:capedonor // FetherFall
 7c440c1f5c9747e8ad1925ae9588dbc7:capedonor // Fingorn73
 403c3c03ac7f45488199f50273097207:capedonor // FirstBigFor
 9659c91b6f7841729fe2013bdb856aa4:capedonor // FOOT_MILK
@@ -590,6 +591,7 @@ e3450dd5c8a34c28aa25a6b5aedadd33:cape_stargate // Ambaw
 bcb6f5c9abce475aab5515ae17a8eaf9:cape_stargate // anon
 683838200c0948dea87a6913c69ac261:cape_stargate // Arcadia_Blues
 5bd7751cc2b943c7bf9517b73154e65e:cape_stargate // ASOOD
+26aa9a0e61874d6c97b697365c6368d4:cape_stargate // AubDunklefelger
 d186bf1af0cd466aa8dd31411feb78e0:cape_stargate // AuroraJesse
 1eaec99b1f3a4d78b2e5c99e640f3b1a:cape_stargate // BeardBois
 8ada0bd64eec41a283f2f88a50687897:cape_stargate // bechill
