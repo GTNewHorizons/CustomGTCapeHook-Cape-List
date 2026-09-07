@@ -481,6 +481,7 @@ e53c90ec34a3457cabe65c7062eee954:cape_steam // Tymekin
 69913ad2c688472cb0cf1f1450dc3f9f:cape_steam // vantoura
 e9aa17dc2d3c45349383fb8ef8983bed:cape_steam // Verknaller
 a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
+693ca0f9a11040a0af7d42f3dc541e1a:cape_steam // xGamma_
 28074df6ffdb44c8bd9085c48430cf5b:cape_steam // Yutang13
 9d9587c0bccf4cdbbc42e69498acc066:cape_steam // ZetsuboNemurase
 f0bdb717f44a44989d900cfdccb28e55:cape_steam // ziiippFLOP
@@ -746,6 +747,7 @@ e9a7a48627924313862ad7c5983217d3:cape_stargate // MustaMine
 04b2d2d61ba54598a2609ff8432677a8:cape_stargate // Nachie
 d1afa15ff526472d9e3831b2b199bbde:cape_stargate // nagichan_
 b50cb62b8f6449ef9aea8c8123d1a13f:cape_stargate // NaviJust
+d3fdea16c97c4d0db85f3f5ef02a5b54:cape_stargate // nelaURS
 52b691312098401b8284008971ddbf62:cape_stargate // nemo075
 0a63d4bfa29943068fa3b38b47724a30:cape_stargate // Neodark7
 731d02960daf4167b26370b83a0a52d1:cape_stargate // NerverHD
