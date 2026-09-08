@@ -523,6 +523,7 @@ b68590a623ce4ae8a1c1c966fa4a5c58:cape_titanium // Mythrix08
 018d7faac174475da4a7adcf85e9acb9:cape_titanium // Ngar
 38869b04a22f466480a5bf939de07adf:cape_titanium // Nulatari
 b485ee0c69384f12a3236b80067c35ac:cape_titanium // P0rtal
+ecb301316f4a4bb885ae6b6c6fc08566:cape_titanium // Piper_Paper_Rose
 cdb9eecee4884366bb70cb53a4397fba:cape_titanium // ProphecyOak
 acb6f1b635eb4933a7c82b4ec0a77be9:cape_titanium // PureBluez
 52c73732f2b44a049e00abacc4bbc34b:cape_titanium // realspinelle
@@ -530,7 +531,6 @@ acb6f1b635eb4933a7c82b4ec0a77be9:cape_titanium // PureBluez
 d0b06aabafc9459dbcf4fb36b24038f6:cape_titanium // s0urdough
 cc2876458f6f4f038d83e55249d33c6d:cape_titanium // Sovishe
 6e871a8f00964589bd320c9c1c7d2083:cape_titanium // SPARKPLUGx44
-ecb301316f4a4bb885ae6b6c6fc08566:cape_titanium // Stereo528
 f30d8aec646040bcbdf6ad030d5f1b5f:cape_titanium // Strat0z
 9a963598b93545a1b8004b0a72308686:cape_titanium // texaswriter
 8397b175eeee4831b2ab5caf4e86a8d5:cape_titanium // ThatCheesyTaco
@@ -549,9 +549,9 @@ bea4c4215df1400facd100e8e714b789:cape_titanium // VMAZZ44
 150b30aecf34485dbb468d84dae55467:cape_titanium // zeNd3rr
 b948f10dcbf040568b8189c8acc24864:cape_neutronium // _Dislocator_
 d28e5f134b8444ce9d3251f1b569adda:cape_neutronium // boubou_19
+3bee827296da498cadc116871f1d000a:cape_neutronium // CarAlarmTester
 f704f98ebe4041fba9a5f370a143fe5b:cape_neutronium // chochem
 818486c248a846beaeb3240f83cbed7a:cape_neutronium // Der_Giant
-3bee827296da498cadc116871f1d000a:cape_neutronium // diCardinale
 3c24c7f50bd44e1ca3e2709e725d31fe:cape_neutronium // Echo_Djinn
 21091eea52394412be1393227d2e137c:cape_neutronium // Emve
 233da390c48d4454824e2c3de9ffca7b:cape_neutronium // honzastastny
@@ -576,7 +576,6 @@ f0bdb717f44a44989d900cfdccb28e55:cape_neutronium // ziiippFLOP
 ff6f3560d9c14ea792e7226dd921bebc:cape_stargate // 8800088
 1056bb8f363a4918892883e4c46296f3:cape_stargate // __tomm__
 219217a455ed4536ba9a3e16b4030f96:cape_stargate // __Trollface
-b5b916fbde4646b0962b266abc34f046:cape_stargate // _Faisal_
 b86ad63cb5e54b01820f3e77058f0aa0:cape_stargate // _Hokey
 825130c4001443269d6c1315e7f1b13b:cape_stargate // _the_
 ea90bb0fe15544bfb45a76defc294cc6:cape_stargate // _zZaney
@@ -612,7 +611,6 @@ d28e5f134b8444ce9d3251f1b569adda:cape_stargate // boubou_19
 3ecb35bc318f48c19d59db0789f60c21:cape_stargate // C_A_T_T_
 26015046f76247f9a179e702888c8d33:cape_stargate // caca_le_chat
 7727874ac3ac4f81ab2cd4bead89bad8:cape_stargate // Calcarea
-0a82639ffd28429a92c5aaf46f29a2b2:cape_stargate // CetiOmicron
 52a19d5336794a7f85305c7c828abc4c:cape_stargate // Chaos_Filler
 92c749325c8a48349b4d2e074f84ee79:cape_stargate // Ciubix8513
 11a5c90cc4f84d1b9c9730269419678a:cape_stargate // CLEPTO
@@ -651,6 +649,7 @@ f92d3e2b62f349d5b359f7ec02728d20:cape_stargate // F_S_Q
 88aefaa6b58840c59af77ff7f1e3a604:cape_stargate // fappoh
 182b4a3d4c02401bb2691f75fd5ad917:cape_stargate // FatherGentlespie
 a54aa3782e264388b088cdcb27f17b58:cape_stargate // FBIDonut
+cab439c53f144ada89a08f2e50df3baf:cape_stargate // Ferniel
 d50b616ec6ca4324be8d70fc0c0786df:cape_stargate // Flame_Light
 ca399a5bd1bb46e3af5b5939817b5cf8:cape_stargate // Fobius
 9aa54628598544e381e414be8f34f4b7:cape_stargate // FriendlyButFire
@@ -678,7 +677,6 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 93d66ccbbd464b6e9a991ce6db71c664:cape_stargate // hscroot
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
 061b54b0dd4d4a23a99177b972d3b205:cape_stargate // Ice__Blast
-cab439c53f144ada89a08f2e50df3baf:cape_stargate // IrisMoonglow
 13ad248241fa4fe482eca003f5fc5f31:cape_stargate // istoleyurballs
 9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
 19d1abd6c1844a9ea215e12bf3de1869:cape_stargate // japio
@@ -791,6 +789,7 @@ f4cd8cf31d214958b5b66fa6526b00bd:cape_stargate // Rami_114
 8000eaa2aa7241b6a818fcba2ad26d7f:cape_stargate // RocketMaid
 e38e4ddda2c94801960e54434a136bd2:cape_stargate // Roffster
 d039ff5fd22d42b297d9d5ad00e7a6a5:cape_stargate // Rubijox
+b5b916fbde4646b0962b266abc34f046:cape_stargate // Sabbarr
 63c7125b2f1440fe9a8a51891ae950a6:cape_stargate // Sandmaster23
 367932e9ffe34e0dba7f86770959224e:cape_stargate // Sconeboy
 b86fac066f0b4aec8eb9e5d89ba1db96:cape_stargate // Scrome
@@ -809,6 +808,7 @@ c35c976e1b15410482acd265e054379e:cape_stargate // SmoothKnees
 678f3d1b3e6e4c49886678537a05f28d:cape_stargate // Snowleopoldxxx67
 831a53228e5d426a8d5260bdfd6a26dd:cape_stargate // sobrinth
 9bf98b916810405e879e5bd2194d5fea:cape_stargate // SoftSir
+0a82639ffd28429a92c5aaf46f29a2b2:cape_stargate // SophonGTNH
 908e4c5d877e413b836b1912b6355dad:cape_stargate // soratidus999
 7f8f282cd58847af8109b5fb6ed57061:cape_stargate // SoupTopic
 06d0cb5718564afe97c204551e09755e:cape_stargate // SovietWoschi
