@@ -487,6 +487,7 @@ a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
 f0bdb717f44a44989d900cfdccb28e55:cape_steam // ziiippFLOP
 5a519db31079436491bd2326dbb64273:cape_titanium // Aiseus
 b2313b1cd97a4a5cb89bdb6c23372daf:cape_titanium // Azru
+4bfe91d4b257429e82015169eeee8857:cape_titanium // BotaBinho
 d28e5f134b8444ce9d3251f1b569adda:cape_titanium // boubou_19
 57bd85e90ad245c99abca9926820d345:cape_titanium // CapColt
 70aae6f54c044592b3e3bf57fabf6919:cape_titanium // clzola
@@ -625,6 +626,7 @@ a42bca2eb6554469b69241b5935c9ddb:cape_stargate // Craftspirit_MC
 caf400cf48fd4e009e6247db9540c59e:cape_stargate // cuketka5
 e832045d61694271b7962159b8f93e16:cape_stargate // Czolgista123
 316c0004d4e54cfd972860fbed97bc60:cape_stargate // Damos1212
+2387bbaf278f4246815c97ed5deeb63a:cape_stargate // Dark_Recent
 c0742462711b46d6a48dd3bcacc7ba32:cape_stargate // Darkmaxsas
 2f5dc4e88dd3423dbb97a745a4b46043:cape_stargate // darksabre010
 b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
