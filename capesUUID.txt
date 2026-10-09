@@ -591,6 +591,7 @@ ef431e1686294efe811ebefe73e2504b:cape_stargate // AgentLA
 684119355613459a9c7b6a964b7d7c19:cape_stargate // algent
 eb26884df25f46bbbf10afdaae30ab14:cape_stargate // alphaomega21
 e3450dd5c8a34c28aa25a6b5aedadd33:cape_stargate // Ambaw
+ea82ddb397ff4d37a84854273676a299:cape_stargate // Amongus_sus_Lad
 bcb6f5c9abce475aab5515ae17a8eaf9:cape_stargate // anon
 683838200c0948dea87a6913c69ac261:cape_stargate // Arcadia_Blues
 5bd7751cc2b943c7bf9517b73154e65e:cape_stargate // ASOOD
@@ -918,7 +919,6 @@ d7c74abba09748859a97b34f1fe59143:capedev // miozune
 6b7f9585308b4daa87f3e339bde9c6a2:capedev // mitchej123
 689f8043376749f79642993342818d08:capedev // moller21
 848d48e8bc224a7495e2ef0d55115647:capedev // Namikon
-867496e31c2549a58aa289fe917d840f:capedev // Nana_Sakura1
 31893faa44e14c899caf3879ba8ffde5:capedev // Nocx2727
 266e4630c30d48c198231cfc5e0a22e7:capedev // NotAPenguin0
 f2e1f6c2ef9042bfb96b7513e244bc12:capedev // nspolar
@@ -940,7 +940,6 @@ bb53cb3f3bf34301ad20435f07213544:capedev // The_4th_Doctor_
 937e7359aa824e3e8a25b531acf425c7:capedev // TheYoingLad
 01977d397106449dbf9ee3497ca7c557:capedev // tiffit
 0513517db2ce40c2be44a8a90f564951:capedev // Time_Conqueror
-9701a938e11a410b883801734ec20189:capedev // Toooj
 b451e21fafda403f983da3842a55ab67:capedev // TryofDeath
 ea07e01acf33463fa327b2322cce3ecf:capedev // Ultra_Prodigy
 99a4315a24d84f82b9ab65097957774c:capedev // Vlamonster
