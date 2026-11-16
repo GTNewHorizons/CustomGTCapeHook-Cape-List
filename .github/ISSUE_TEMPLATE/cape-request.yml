@@ -1,0 +1,39 @@
+name: Request a GTNH Developer Cape
+description: Request a GTNH developer cape.
+title: "Cape Request"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        You do not need to edit the title; it will be set automatically from your Minecraft IGN.
+
+        A pull request will be prepared for maintainer review before the cape is granted.
+  - type: input
+    id: discord
+    attributes:
+      label: Discord Username
+      description: Your Discord username, if you have one.
+      placeholder: DreamMasterXXL
+    validations:
+      required: false
+  - type: input
+    id: minecraft-ign
+    attributes:
+      label: Minecraft IGN
+      description: Your current Minecraft Java Edition in-game name. We will look up your UUID automatically.
+      placeholder: boubou19
+    validations:
+      required: true
+  - type: dropdown
+    id: gtnh-roles
+    attributes:
+      label: GTNH Roles
+      options:
+        - GTNH Developer
+      default: 0
+      multiple: false
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Capes for other contributors are coming soon.
