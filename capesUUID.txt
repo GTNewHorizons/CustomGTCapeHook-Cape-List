@@ -1,5 +1,5 @@
 // This file contains the uuids of the players along with cape types.
-// The <uuid> can be dashed or not, but each time the donation bot will process new donations, any uuid with dashes will see their dashes stripped.
+// Existing UUIDs may have dashes. Discord donations are stored without dashes.
 // You can get the <uuid> of a player from the mojang api:
 // https://api.mojang.com/users/profiles/minecraft/<playername>
 
@@ -7,7 +7,7 @@
 // <uuid>:<capeType>
 // <uuid>:<capeType> // <username> (other comments will be stripped by the donation bot to place the // username instead)
 // <uuid>
-// Note #1: a line with only <uuid> or invalid cape type will default to using the default GT cape
+// Note #1: a line with only <uuid> will default to using the default GT cape
 // Note #2: Players who got a cape from hardcoded playername in GT5U or GregoriousT's endpoint, have their cape conserved, but donation capes have priority over other capes
 a41b475064874091a7fefd55c8ee2f5f:capeDefault // 25FiveDetail
 9a353fc748704d85905ecd3e2ce01c77:capeDefault // 456Xander
@@ -350,6 +350,7 @@ befbe081842e4a2a841c8cf67c5074dd:capedonor // PrivateDijon
 732bb59f3c87473880d0d46eb230d1b6:capedonor // qDshun
 77717ee11f8743adb3bc700715ae3924:capedonor // Quarsy
 514a7de443e84931946c1defa422c512:capedonor // queeek180
+1b87e223d41a45fe870060279698dc23:capedonor // Quna
 85cf0818fae94978973adc48257175cc:capedonor // RedNicStone
 67fcb7793e6549d5a8e5a91c574ef498:capedonor // rem821
 d0c8a34b7be6461fb6211bc86015fa94:capedonor // Ressed450
@@ -398,6 +399,7 @@ aa3ab93edef44e30ae6b48889eb3e204:capedonor // xPrincessEmilyx
 4e5087038fd74224b56c7e2d1194f963:capedonor // yinscape
 3a27782d68644814a9fe7c6931f29a8a:capedonor // YoungOnion
 5fd7affe29264df3801850f6d0f42ce5:capedonor // YuraFarau
+70e0f2f55eda438b8f95325eab1fca58:capedonor // Yusamika
 ee438daead664671b63d3b9e1e6b9c9f:capedonor // Zaries
 5027fb8908db469e89e5f3e897d14e02:capedonor // Zaromas
 08c875dd865d4a22b5ddad9acd003916:capedonor // Zeus1401
@@ -460,6 +462,7 @@ e34f2a27378047cb9f3c746005b4a7f8:cape_steam // Paner
 c84cd982a3954cfe8531f911973e1ad2:cape_steam // psehr
 1b87e223d41a45fe870060279698dc23:cape_steam // Quna
 3088d2c5055b45c8bcb119e136612fb9:cape_steam // Ragnaroin
+1008bf60d87d4bfaa23f81f6b5fb522a:cape_steam // ReadyWildi
 67fcb7793e6549d5a8e5a91c574ef498:cape_steam // rem821
 b60402c72097424d861eb5e973a2a040:cape_steam // Ruvudkin
 6fd51125c0654a7b8b5f6c4f94163acc:cape_steam // Schleimling
@@ -472,6 +475,7 @@ b0aab8262c3743348a5b321221569f56:cape_steam // slyd0x
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_steam // Swololo
 2c79f2c72b5d46088698ce6fb476c6a2:cape_steam // syl_boots
 3f9c46c892e04eb99a022c4fb276b881:cape_steam // TheLarinel
+c8cddf48e92f44149e921becb133b78d:cape_steam // TheUser1
 e524d9d16b30469daf74b74e58efc38c:cape_steam // thor_ragnason
 f2e6749e8f2c4dc4a5e48c462ae95b61:cape_steam // Torvik_
 32d67174cb7141b794ee2eab358f75a1:cape_steam // TotegeReplica
@@ -487,6 +491,7 @@ a2e605d6d2004ce3a153f7bc35add757:cape_steam // Villager361
 f0bdb717f44a44989d900cfdccb28e55:cape_steam // ziiippFLOP
 5a519db31079436491bd2326dbb64273:cape_titanium // Aiseus
 b2313b1cd97a4a5cb89bdb6c23372daf:cape_titanium // Azru
+8b656d669e234c91857d04b256a1f5a8:cape_titanium // benjermin_
 4bfe91d4b257429e82015169eeee8857:cape_titanium // BotaBinho
 d28e5f134b8444ce9d3251f1b569adda:cape_titanium // boubou_19
 57bd85e90ad245c99abca9926820d345:cape_titanium // CapColt
@@ -545,6 +550,7 @@ bf6dd22c00b24477a5f069a6579d3284:cape_titanium // UltraPeeks
 53cce049a9d543d7a216fb86de80bf96:cape_titanium // UNISOCKCORNELIUS
 9766def586554eb09a3bb2adccba8804:cape_titanium // vesiiculo
 bea4c4215df1400facd100e8e714b789:cape_titanium // VMAZZ44
+eecf44e815b64a0ea31126fc08942d0d:cape_titanium // vxsuo
 48de011ce27f403a962d911fff826845:cape_titanium // wnoa
 2cd01bc5dbae4875bb343a28f848f4fe:cape_titanium // Wylnexon
 693ca0f9a11040a0af7d42f3dc541e1a:cape_titanium // xGamma_
@@ -634,6 +640,7 @@ b3a86061892046e99dc255466843b151:cape_stargate // davidca1226
 54a6abcb9b80431586a62049769cda06:cape_stargate // DEATHICIDE
 123d31b3167e49d1ad9b235e5cb5cbda:cape_stargate // Deathstare
 284f27aca0954658ac98d28993da6519:cape_stargate // Demosthenex
+818486c248a846beaeb3240f83cbed7a:cape_stargate // Der_Giant
 0b731cfcb78f4b2fb665c75fbda2668b:cape_stargate // DerBoon
 824248d3412548b3b7ee38200d744bb4:cape_stargate // DesCuddlebat
 55212831eb9e4fa198af6d37f39e4e56:cape_stargate // DevElements
@@ -643,6 +650,7 @@ a654060d194e4e9491b030fdbc997fb1:cape_stargate // draeath
 f050833a9bc240ed8f527bee8f9bcd92:cape_stargate // DrRatmouse
 f20d7921838943b8a0580965b5c19dae:cape_stargate // DrVonBraun
 2e30a3fa7e814deb8d9eaf75e568b209:cape_stargate // DubDubChan
+a1526b42bab543908739250644515a19:cape_stargate // Dwelep
 1f74c0180fbf4b44ae911e040482e815:cape_stargate // E_StarK
 b92a977e2a724b5583e58897243c28df:cape_stargate // Eason1134HK
 041676c286704e20b4a24de3ccb9b499:cape_stargate // egsergio
@@ -682,6 +690,8 @@ c664ee589bdd4bcca1da0c1f5566ec82:cape_stargate // Hamster420
 93d66ccbbd464b6e9a991ce6db71c664:cape_stargate // hscroot
 726b48366be74e319fa5047a3cf6cc62:cape_stargate // Hyperic88
 061b54b0dd4d4a23a99177b972d3b205:cape_stargate // Ice__Blast
+edfeb2ca04194c4aae18fc38aad0dea6:cape_stargate // ipi31415
+a51852d68a6540018a7245b724fcf5ef:cape_stargate // IPoLDeY
 13ad248241fa4fe482eca003f5fc5f31:cape_stargate // istoleyurballs
 9b4e698ac9d448ef801768236bc66759:cape_stargate // JackTimes
 19d1abd6c1844a9ea215e12bf3de1869:cape_stargate // japio
@@ -786,6 +796,7 @@ efd448111ae6461183d2c89355ce69d4:cape_stargate // Quantumly
 514a7de443e84931946c1defa422c512:cape_stargate // queeek180
 a2a5ae82a1bd4a3fa2d1e1589a9f6d79:cape_stargate // ragnarokjak
 f4cd8cf31d214958b5b66fa6526b00bd:cape_stargate // Rami_114
+9f1dbfc11a084d9f88f040045cc88021:cape_stargate // Raphi_055
 7d0a34cd79284ccfa855f1a3fc307a74:cape_stargate // RaymondLogan
 0e5fbcc69b4247fa9f5726a71a0d038d:cape_stargate // rdxxn
 5b3a3714f0494bf8a29b71d93e201781:cape_stargate // redspah
@@ -828,6 +839,7 @@ c7ae0e61e3a7405c8760cb62afa4d6bc:cape_stargate // stupidwalrus
 39be2659252e44d7b1563b3e5377ff0d:cape_stargate // Superhond1357
 fa567b5cd3004c8381209c956299d782:cape_stargate // superjerk187
 cc845cdd7b1e4a93ae109c114a54ff9a:cape_stargate // Swololo
+d50d8d92014041b98018c2a27d44752a:cape_stargate // Takahiru
 79d2985ad71843c688855be1b4bfe5ee:cape_stargate // Tee_129
 d5330ba176214ce7a2ffc8b8518a65c3:cape_stargate // TehBanana
 0b1f6ed8e0e24df1acda1bac6573fdad:cape_stargate // tern_navi
@@ -863,6 +875,7 @@ efa3567e015a4cc49958942fa1defb39:cape_stargate // YesseYYesseY
 b66a083888e34e88a4f1b5219ef8ca9a:cape_stargate // Z2800667
 72e7304ab5dc4f3d91e960d274605998:cape_stargate // zachary8530
 80ae282d9d8d40c898d7886421f3d6a3:cape_stargate // zedle
+6750b5dce52f4557b608c4d1bbac38a3:cape_stargate // Zephyrspark
 5f7d17a492764386b6e0b5166a8da038:cape_stargate // zeromega
 ecf9719a2f3548bdbb0214d57ee00a81:cape_stargate // Zouldir
 57715d32a6854e2eae6854c19808b58d:capedev // Alexdoru
