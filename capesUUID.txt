@@ -187,7 +187,7 @@ c440c5aea3984d57b32d561201c34603:capeDefault // Tworf
 33f2d8ea9b08443190304ff14cba8561:capeDefault // Ultimabunny4
 d0df8fc47f6e456a92773ef5b73835a0:capeDefault // Ultimaheart4
 984e1ccedf974493bad29ece288ac94b:capeDefault // ultrasn0wz
-06e8bd8955454774ba015091901fb564:capeDefault // Vertiv
+06e8bd8955454774ba015091901fb564:capeDefault // vertiv
 ce7fb761bfa746789476827587a931cd:capeDefault // vidplace7
 0d838b4d3cb6410781b73bb6b8e4f634:capeDefault // VlexStone
 2c1ca510ab7c45f680ac2a18874084a5:capeDefault // voooon24
@@ -253,7 +253,6 @@ eb96618f3e884152aed6106cacb94b18:capedonor // Cordo52
 c955fc1bb0194864b24771cd1de7056b:capedonor // CowboyCave
 92115e530d884f18bcc701b358bb6546:capedonor // crash117
 d0d9cecf1c814edea3dd6f119e600504:capedonor // cristicsk
-02c0f0b061b243ee86a698733dc747d8:capedonor // Cumnana
 fd5026b131ea4ee698e005aeb01a75f2:capedonor // Darkstar1712
 5f575d0fa5d74b50b580143b397dfe5d:capedonor // Day0Dreamer
 b81450ff83e54830a09c16498d9a7a37:capedonor // Dejnol
@@ -316,6 +315,7 @@ dc4b75e70cc7405e8c4875e3c2a348a8:capedonor // Kunanononon
 7cb1c8cccbf54f49882157e0c6906c11:capedonor // Kyndist
 38e5a4d4234a4a8f93e1e84d9295dd5a:capedonor // Lardyking
 fc56cfa8fe1e4ed0bef6bf1782da84c4:capedonor // Lethalargy
+02c0f0b061b243ee86a698733dc747d8:capedonor // linuxcvck
 b2310e5413844ed0b53812022604fe44:capedonor // LittleCircles
 b36f6faade284bdfbed93bc5b84ac46c:capedonor // Logos
 352228d5efe2474f9f830991f79c4b90:capedonor // Logy1
